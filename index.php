@@ -89,9 +89,9 @@
     <link rel="stylesheet" href="assets/css/backToTop.css">
     <link rel="stylesheet" href="assets/css/swiper-bundle.css">
     <link rel="stylesheet" href="assets/css/default.css">
-    <link rel="stylesheet" href="assets/css/main.css?v=2">
-    <link rel="stylesheet" href="assets/css/klean-premium.css?v=2">
-    <link rel="stylesheet" href="assets/css/responsive.css">
+    <link rel="stylesheet" href="assets/css/main.css?v=4">
+    <link rel="stylesheet" href="assets/css/klean-premium.css?v=4">
+    <link rel="stylesheet" href="assets/css/responsive.css?v=4">
 
 
 	<style>
@@ -107,21 +107,56 @@
 	    border-radius: 50px;
 	    display: inline-flex;
 	    align-items: center;
-	    gap: 20px;
-	    padding: 10px 24px;
+	    gap: 12px;
+	    padding: 8px 20px;
 	    margin-bottom: 20px;
 	    color: #fff;
 	    font-size: 13px;
 	    font-weight: 500;
+	    max-width: 95%;
+	    flex-wrap: wrap;
+	    justify-content: center;
+	    white-space: normal;
 	}
 	.kp-trust-bar span { color: #FED10C; font-weight: 700; }
 	.tp-slider-title-two {
 	    color: #ffffff !important;
 	    text-shadow: 0 4px 25px rgba(0, 0, 0, 0.95), 0 2px 8px rgba(0, 0, 0, 0.98) !important;
+	    word-break: break-word;
 	}
 	.tp-slider-title-two span {
 	    color: #FED10C !important;
 	    text-shadow: 0 4px 25px rgba(0, 0, 0, 0.95), 0 2px 8px rgba(0, 0, 0, 0.98) !important;
+	}
+	@media (max-width: 991px) {
+	    .tp-slider-area,
+	    .tp-slider-active,
+	    .tp-slider-active .swiper-wrapper,
+	    .tp-single-slider,
+	    .tp-slider-height-two {
+	        height: 100vh !important;
+	        min-height: 100vh !important;
+	        min-height: 100dvh !important;
+	        height: 100dvh !important;
+	    }
+	    .tp-single-slider {
+	        display: flex !important;
+	        align-items: center !important;
+	        justify-content: center !important;
+	        padding-top: 85px !important;
+	        padding-bottom: 30px !important;
+	        position: relative !important;
+	    }
+	    .tp-slider-wrapper-two {
+	        margin-top: 0 !important;
+	    }
+	}
+	@media (max-width: 767px) {
+	    .kp-trust-bar { font-size: 11px; padding: 6px 14px; gap: 6px; margin: 0 auto 16px !important; }
+	    .tp-slider-title-two { font-size: 26px !important; margin-bottom: 12px !important; line-height: 1.25 !important; }
+	    .tp-slider-title-two span { font-size: 26px !important; line-height: 1.25 !important; }
+	    .tp-slider-subtitle-two { font-size: 14px !important; line-height: 1.4 !important; }
+	    .tp-slider-hero-btns { margin-top: 22px !important; }
 	}
 	</style>
 
@@ -276,12 +311,12 @@
                         <p style="color:rgba(255,255,255,0.75);margin:4px 0 0;">Years Experience</p>
                     </div>
                     <div class="col-md-3 col-6 wow fadeInUp" data-wow-delay=".4s">
-                        <h2 style="font-family:'Outfit',sans-serif;font-weight:900;color:#FED10C;font-size:48px;margin:0;"><span class="stat-counter" data-target="500">0</span>+</h2>
+                        <h2 style="font-family:'Outfit',sans-serif;font-weight:900;color:#FED10C;font-size:48px;margin:0;"><span class="stat-counter" data-target="5000">0</span>+</h2>
                         <p style="color:rgba(255,255,255,0.75);margin:4px 0 0;">Happy Clients</p>
                     </div>
                     <div class="col-md-3 col-6 wow fadeInUp" data-wow-delay=".6s">
-                        <h2 style="font-family:'Outfit',sans-serif;font-weight:900;color:#FED10C;font-size:48px;margin:0;"><span class="stat-counter" data-target="10">0</span>+</h2>
-                        <p style="color:rgba(255,255,255,0.75);margin:4px 0 0;">Machine Brands</p>
+                        <h2 style="font-family:'Outfit',sans-serif;font-weight:900;color:#FED10C;font-size:48px;margin:0;"><span class="stat-counter" data-target="25">0</span>+</h2>
+                        <p style="color:rgba(255,255,255,0.75);margin:4px 0 0;">Machines</p>
                     </div>
                     <div class="col-md-3 col-6 wow fadeInUp" data-wow-delay=".8s">
                         <h2 style="font-family:'Outfit',sans-serif;font-weight:900;color:#FED10C;font-size:48px;margin:0;"><span class="stat-counter" data-target="24">0</span>/7</h2>

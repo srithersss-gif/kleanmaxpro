@@ -162,12 +162,12 @@
                         <p style="color:rgba(255,255,255,0.75);margin:4px 0 0;">Years Experience</p>
                     </div>
                     <div class="col-md-3 col-6 wow fadeInUp" data-wow-delay=".4s">
-                        <h2 style="font-family:'Outfit',sans-serif;font-weight:900;color:#FED10C;font-size:48px;margin:0;"><span class="stat-counter" data-target="500">0</span>+</h2>
+                        <h2 style="font-family:'Outfit',sans-serif;font-weight:900;color:#FED10C;font-size:48px;margin:0;"><span class="stat-counter" data-target="5000">0</span>+</h2>
                         <p style="color:rgba(255,255,255,0.75);margin:4px 0 0;">Happy Clients</p>
                     </div>
                     <div class="col-md-3 col-6 wow fadeInUp" data-wow-delay=".6s">
-                        <h2 style="font-family:'Outfit',sans-serif;font-weight:900;color:#FED10C;font-size:48px;margin:0;"><span class="stat-counter" data-target="10">0</span>+</h2>
-                        <p style="color:rgba(255,255,255,0.75);margin:4px 0 0;">Machine Brands</p>
+                        <h2 style="font-family:'Outfit',sans-serif;font-weight:900;color:#FED10C;font-size:48px;margin:0;"><span class="stat-counter" data-target="25">0</span>+</h2>
+                        <p style="color:rgba(255,255,255,0.75);margin:4px 0 0;">Machines</p>
                     </div>
                     <div class="col-md-3 col-6 wow fadeInUp" data-wow-delay=".8s">
                         <h2 style="font-family:'Outfit',sans-serif;font-weight:900;color:#FED10C;font-size:48px;margin:0;"><span class="stat-counter" data-target="24">0</span>/7</h2>

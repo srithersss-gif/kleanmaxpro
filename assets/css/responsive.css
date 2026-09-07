@@ -34,11 +34,29 @@
    -------------------------------------------------------- */
 
 @media (max-width: 991px) {
+  .tp-slider-area,
+  .tp-slider-active,
+  .tp-slider-active .swiper-wrapper,
+  .tp-single-slider,
   .tp-slider-height-two {
-    min-height: 480px !important;
+    height: 100vh !important;
+    min-height: 100vh !important;
+    min-height: 100dvh !important;
+    height: 100dvh !important;
+  }
+  .tp-single-slider {
+    display: flex !important;
+    align-items: center !important;
+    justify-content: center !important;
+    padding-top: 85px !important;
+    padding-bottom: 30px !important;
+    position: relative !important;
+  }
+  .tp-slider-wrapper-two {
+    margin-top: 0 !important;
   }
   .tp-slider-title-two {
-    font-size: 36px !important;
+    font-size: 34px !important;
     line-height: 1.2 !important;
   }
   .tp-slider-subtitle-two {
@@ -47,16 +65,41 @@
 }
 
 @media (max-width: 767px) {
+  .tp-slider-area,
+  .tp-slider-active,
+  .tp-slider-active .swiper-wrapper,
+  .tp-single-slider,
   .tp-slider-height-two {
-    min-height: 380px !important;
+    height: 100vh !important;
+    min-height: 100vh !important;
+    min-height: 100dvh !important;
+    height: 100dvh !important;
+  }
+  .tp-single-slider {
+    display: flex !important;
+    align-items: center !important;
+    justify-content: center !important;
+    padding-top: 90px !important;
+    padding-bottom: 35px !important;
+  }
+  .tp-slider-wrapper-two {
+    margin-top: 0 !important;
   }
   .tp-slider-title-two {
     font-size: 26px !important;
-    line-height: 1.2 !important;
+    line-height: 1.25 !important;
     margin-bottom: 12px !important;
+    word-break: break-word !important;
+  }
+  .tp-slider-title-two span {
+    font-size: 26px !important;
+    line-height: 1.25 !important;
+    display: block !important;
   }
   .tp-slider-subtitle-two {
     font-size: 14px !important;
+    line-height: 1.4 !important;
+    padding: 0 10px !important;
   }
   .inquire-hero-btn {
     font-size: 14px !important;
@@ -64,10 +107,14 @@
   }
   .kp-trust-bar {
     font-size: 11px !important;
-    padding: 8px 14px !important;
-    gap: 10px !important;
+    padding: 6px 14px !important;
+    gap: 6px !important;
     flex-wrap: wrap !important;
     justify-content: center !important;
+    max-width: 94% !important;
+    margin: 0 auto 16px !important;
+    display: inline-flex !important;
+    white-space: normal !important;
   }
   .tp-slider-hero-btns {
     margin-top: 20px !important;
@@ -120,8 +167,27 @@
    -------------------------------------------------------- */
 
 @media (max-width: 991px) {
+  .tp-appoint-cta-area {
+    overflow: hidden !important;
+  }
+  .tp-appoint-cta-area .row,
+  .tp-appoint-cta-area .custom-mar-20 {
+    margin-left: 0 !important;
+    margin-right: 0 !important;
+  }
+  .premium-enquiry-form {
+    width: 100% !important;
+    max-width: 100% !important;
+  }
+  .premium-enquiry-form .row {
+    margin-left: 0 !important;
+    margin-right: 0 !important;
+    width: 100% !important;
+  }
   .premium-enquiry-form .row > div {
     margin-bottom: 10px;
+    padding-left: 6px !important;
+    padding-right: 6px !important;
   }
   .premium-input {
     width: 100% !important;
@@ -131,6 +197,7 @@
 @media (max-width: 767px) {
   .tp-appoint-cta-area {
     padding: 24px 0 !important;
+    overflow: hidden !important;
   }
   .tp-appoint-title {
     font-size: 20px !important;
@@ -139,6 +206,7 @@
   }
   .premium-submit-btn {
     margin-top: 8px;
+    width: 100% !important;
   }
 }
 
@@ -302,13 +370,27 @@
   .cta-box h2 {
     font-size: 22px !important;
   }
+  .cta-box .mt-4,
+  .cta-box .cta-box-buttons,
   .cta-box .mt-4.d-flex {
+    display: flex !important;
     flex-direction: column !important;
     gap: 12px !important;
-  }
-  .cta-box .mt-4.d-flex a {
     width: 100% !important;
+    margin-top: 20px !important;
+  }
+  .cta-box .mt-4 a,
+  .cta-box .cta-box-buttons a,
+  .cta-box .btn-custom,
+  .cta-box .btn-outline-light {
+    width: 100% !important;
+    max-width: 100% !important;
+    text-align: center !important;
     justify-content: center !important;
+    margin-left: 0 !important;
+    margin-right: 0 !important;
+    display: block !important;
+    box-sizing: border-box !important;
   }
   /* Service sidebar widget */
   .tp-service-widget {
@@ -499,12 +581,28 @@
 }
 
 /* --------------------------------------------------------
-   20. GENERAL UTILITY — prevent horizontal overflow
+   20. GENERAL UTILITY — prevent horizontal overflow & full-screen mobile
    -------------------------------------------------------- */
 
+html, body {
+  width: 100% !important;
+  max-width: 100vw !important;
+  overflow-x: hidden !important;
+  position: relative !important;
+  margin: 0 !important;
+  padding: 0 !important;
+  -webkit-text-size-adjust: 100% !important;
+}
+
+*, *::before, *::after {
+  box-sizing: border-box;
+}
+
 @media (max-width: 767px) {
-  body {
+  html, body {
     overflow-x: hidden !important;
+    width: 100% !important;
+    max-width: 100vw !important;
   }
   img {
     max-width: 100% !important;
@@ -513,10 +611,14 @@
   .container {
     padding-left: 16px !important;
     padding-right: 16px !important;
+    max-width: 100% !important;
+    width: 100% !important;
   }
   /* Section spacing */
   section {
-    overflow-x: hidden;
+    overflow-x: hidden !important;
+    max-width: 100% !important;
+    width: 100% !important;
   }
   .pt-100 { padding-top: 50px !important; }
   .pb-100 { padding-bottom: 50px !important; }
@@ -528,11 +630,34 @@
   .mb-45  { margin-bottom: 22px !important; }
   .mb-40  { margin-bottom: 20px !important; }
   .mr-80  { margin-right: 0 !important; }
+  .ml-70  { margin-left: 0 !important; }
+
+  /* Testimonial mobile fixes */
+  .tp-testimonial.tp-abouts-testimonial,
+  .tp-testimonial.tp-abouts-testimonial.ml-70 {
+    margin-left: 0 !important;
+    margin-right: 0 !important;
+    padding: 10px 0 !important;
+  }
+  .tp-testimonial-single p {
+    font-size: 15px !important;
+    line-height: 1.6 !important;
+    padding: 16px 18px !important;
+  }
+  .tp-testimonial-bg {
+    padding: 20px 15px !important;
+    overflow: hidden !important;
+  }
 }
 
 @media (max-width: 480px) {
   .tp-slider-title-two {
     font-size: 22px !important;
+    line-height: 1.25 !important;
+  }
+  .tp-slider-title-two span {
+    font-size: 22px !important;
+    line-height: 1.25 !important;
   }
   .breadcrumb-title {
     font-size: 22px !important;

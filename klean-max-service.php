@@ -293,7 +293,7 @@ ob_start();
                                     <ul class="trail-items">
                                         <li class="trail-item trail-begin"><a href="index">Home</a>
                                         </li>
-                                        <li class="trail-item trail-begin"><a href="cleaning-services">Other Services</a>
+                                        <li class="trail-item trail-begin"><span>Services</span>
                                         </li>
                                         <li class="trail-item trail-end"><span>Service</span></li>
                                     </ul>
@@ -313,7 +313,7 @@ ob_start();
                     <!-- Sidebar -->
                     <div class="col-xl-4 col-lg-4">
                         <div class="tp-service-widget wow fadeInUp" data-wow-delay=".2s">
-                            <h4 class="tp-service-widget-title">Other Services</h4>
+                            <h4 class="tp-service-widget-title">Services</h4>
                             <div class="tp-service-widget-list">
                                 <ul>
                                     <li><a href="sales-service">Sales <i class="fas fa-angle-right"></i></a></li>
@@ -467,9 +467,9 @@ ob_start();
                             <div class="cta-box">
                                 <h2 class="text-white mb-15">Need Quick Equipment Service?</h2>
                                 <p style="color: rgba(255,255,255,0.8); font-size: 18px;">Join our satisfied clients with AMC services in Chennai.</p>
-                                <div class="mt-4">
+                                <div class="cta-box-buttons mt-4 d-flex flex-wrap gap-3 align-items-center">
                                     <a href="contact" class="btn-custom">Book a Service</a>
-                                    <a href="tel:+919876543210" class="btn btn-outline-light ms-3" style="padding: 13px 35px; border-radius: 5px; font-weight: 700;">Call Us Now</a>
+                                    <a href="tel:+917338882034" class="btn btn-outline-light" style="padding: 13px 35px; border-radius: 5px; font-weight: 700;">Call Us Now</a>
                                 </div>
                             </div>
 
