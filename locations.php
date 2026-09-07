@@ -81,12 +81,10 @@
         .city-anchor-bar {
             background: #001224;
             padding: 18px 0;
-            position: sticky;
-            top: 80px;
-            z-index: 100;
+            position: static;
         }
         .city-anchor-bar a {
-            color: rgba(255,255,255,0.7);
+            color: #ffffff !important;
             font-weight: 600;
             font-size: 15px;
             margin: 0 20px;
@@ -94,7 +92,13 @@
             transition: color 0.3s;
             letter-spacing: 0.5px;
         }
-        .city-anchor-bar a:hover { color: #FED10C; }
+        .city-anchor-bar a i {
+            color: #FED10C;
+            margin-right: 6px;
+        }
+        .city-anchor-bar a:hover {
+            color: #FED10C !important;
+        }
 
         /* City Card */
         .city-card {

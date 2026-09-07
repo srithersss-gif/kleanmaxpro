@@ -2873,7 +2873,7 @@ select {
 .tp-slider-title-two {
   font-size: 90px;
   line-height: 1.1;
-  color: #09150f;
+  color: #ffffff;
 }
 @media only screen and (min-width: 992px) and (max-width: 1199px) {
   .tp-slider-title-two {
@@ -2916,7 +2916,7 @@ select {
 
 .tp-slider-subtitle-two {
   font-size: 30px;
-  color: #09150f;
+  color: #ffffff;
   font-weight: 700;
 }
 @media (max-width: 767px) {
