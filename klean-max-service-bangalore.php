@@ -1,0 +1,467 @@
+﻿<?php
+ob_start();
+?>
+<!doctype html>
+<html class="no-js" lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="x-ua-compatible" content="ie=edge">
+    <title>Servicing Cleaning Equipment's | Industrial Cleaning Services In Bangalore | Kleanmax Pro</title>
+    <meta name="description" content="Cleaning machine Rental & Services in Bangalore, Kleanmax Pro ">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <link rel="manifest" href="site.webmanifest">
+    <link rel="shortcut icon" type="image/x-icon" href="assets/klean-favicon.png">
+
+    <!-- CSS here -->
+    <link rel="stylesheet" href="assets/css/bootstrap.min.css">
+    <link rel="stylesheet" href="assets/css/animate.min.css">
+    <link rel="stylesheet" href="assets/css/custom-animation.css">
+    <link rel="stylesheet" href="assets/css/fontawesome.min.css">
+    <link rel="stylesheet" href="assets/css/meanmenu.css">
+    <link rel="stylesheet" href="assets/css/magnific-popup.css">
+    <link rel="stylesheet" href="assets/css/flaticon.css">
+    <link rel="stylesheet" href="assets/css/venobox.min.css">
+    <link rel="stylesheet" href="assets/css/backToTop.css">
+    <link rel="stylesheet" href="assets/css/swiper-bundle.css">
+    <link rel="stylesheet" href="assets/css/default.css">
+    <link rel="stylesheet" href="assets/css/main.css">
+    <link rel="stylesheet" href="assets/css/klean-premium.css">
+    <link rel="stylesheet" href="assets/css/responsive.css">
+
+    <style>
+        .tp-main-menu-two ul li a:after { display:none; }
+        
+        /* Premium Service Sidebar */
+        .tp-service-widget {
+            background: #001224;
+            border-radius: 16px;
+            padding: 30px;
+            margin-bottom: 30px;
+            box-shadow: 0 10px 30px rgba(0,0,0,0.08);
+            position: sticky;
+            top: 100px;
+        }
+        .tp-service-widget-title {
+            color: #fff;
+            font-size: 22px;
+            font-weight: 700;
+            margin-bottom: 25px;
+            position: relative;
+            padding-bottom: 15px;
+        }
+        .tp-service-widget-title::after {
+            content: '';
+            position: absolute;
+            bottom: 0;
+            left: 0;
+            width: 50px;
+            height: 3px;
+            background: #FED10C;
+        }
+        .tp-service-widget-list ul {
+            list-style: none;
+            padding: 0;
+            margin: 0;
+        }
+        .tp-service-widget-list ul li {
+            margin-bottom: 15px;
+        }
+        .tp-service-widget-list ul li a {
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+            color: rgba(255,255,255,0.7);
+            font-size: 16px;
+            font-weight: 500;
+            background: rgba(255,255,255,0.05);
+            padding: 15px 20px;
+            border-radius: 8px;
+            transition: all 0.3s;
+        }
+        .tp-service-widget-list ul li a:hover, .tp-service-widget-list ul li a.active {
+            background: #FED10C;
+            color: #001224;
+            transform: translateX(5px);
+        }
+        
+        .tp-service-quote-box {
+            background: linear-gradient(135deg, #FED10C 0%, #ffdf40 100%);
+            border-radius: 16px;
+            padding: 30px;
+            text-align: center;
+        }
+        .tp-service-quote-box h4 {
+            font-size: 20px;
+            font-weight: 800;
+            color: #001224;
+            margin-bottom: 15px;
+        }
+        
+        /* Premium Product Layout */
+        .premium-product-card {
+            background: #f8f9fa;
+            border-radius: 16px;
+            padding: 30px;
+            margin-bottom: 40px;
+            border: 1px solid #ebebeb;
+            box-shadow: 0 10px 30px rgba(0,0,0,0.03);
+            transition: all 0.3s ease;
+        }
+        .premium-product-card:hover {
+            box-shadow: 0 15px 40px rgba(0,0,0,0.08);
+            transform: translateY(-3px);
+            border-color: #FED10C;
+        }
+        .premium-product-img {
+            border-radius: 12px;
+            overflow: hidden;
+            background: #fff;
+            padding: 15px;
+            height: 100%;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+        }
+        .premium-product-img img {
+            max-height: 250px;
+            object-fit: contain;
+            transition: transform 0.5s ease;
+        }
+        .premium-product-card:hover .premium-product-img img {
+            transform: scale(1.05);
+        }
+        .tp-service-details-subtitle {
+            font-size: 26px;
+            font-weight: 800;
+            color: #001224;
+            margin-bottom: 25px;
+            position: relative;
+            padding-bottom: 12px;
+        }
+        .tp-service-details-subtitle::after {
+            content: '';
+            width: 50px;
+            height: 3px;
+            background: #fed10c;
+            position: absolute;
+            bottom: 0;
+            left: 0;
+        }
+        .kleanmax-subtitle {
+            font-size: 22px;
+            border-bottom: none;
+            padding-bottom: 0;
+        }
+        .kleanmax-subtitle::after {
+            display: none;
+        }
+
+        /* Enhanced Feature Lists */
+        .premium-check-list {
+            list-style: none;
+            padding: 0;
+            margin: 0;
+        }
+        .premium-check-list li {
+            position: relative;
+            padding-left: 35px;
+            margin-bottom: 15px;
+            font-size: 16px;
+            color: #444;
+            font-weight: 500;
+        }
+        .premium-check-list li::before {
+            content: '\f058';
+            font-family: 'Font Awesome 5 Pro';
+            position: absolute;
+            left: 0;
+            top: 2px;
+            color: #FED10C;
+            font-size: 20px;
+        }
+
+        /* Modern Process Cards */
+        .tp-service-feature-card {
+            background: #fff;
+            border: 1px solid #f0f0f0;
+            border-radius: 12px;
+            padding: 30px 20px;
+            text-align: center;
+            transition: all 0.3s ease;
+            box-shadow: 0 5px 20px rgba(0,0,0,0.03);
+            height: 100%;
+        }
+        .tp-service-feature-card:hover {
+            transform: translateY(-5px);
+            box-shadow: 0 15px 30px rgba(0,18,36,0.1);
+            border-color: #FED10C;
+        }
+        .tp-service-feature-card i {
+            font-size: 40px;
+            color: #FED10C;
+            margin-bottom: 20px;
+        }
+        .tp-service-feature-card h5 {
+            font-weight: 700;
+            color: #001224;
+            margin-bottom: 10px;
+        }
+
+        /* CTA */
+        .cta-box {
+            background: #001224;
+            color: #fff;
+            padding: 50px 40px;
+            border-radius: 16px;
+            margin-top: 50px;
+            text-align: center;
+            position: relative;
+            overflow: hidden;
+        }
+        .btn-custom { background: #fed10c; color: #000; font-weight: 700; padding: 15px 35px; border-radius: 5px; text-decoration: none; transition: 0.3s; display: inline-block; }
+        .btn-custom:hover { background: #fff; color: #000; transform: translateY(-2px); }
+    </style>
+	
+	<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-HXGSEGYXYD"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-HXGSEGYXYD');
+</script>
+</head>
+
+<body>
+<!-- back to top start -->
+    <div class="progress-wrap">
+        <svg class="progress-circle svg-content" width="100%" height="100%" viewBox="-1 -1 102 102">
+            <path d="M50,1 a49,49 0 0,1 0,98 a49,49 0 0,1 0,-98" />
+        </svg>
+    </div>
+    <!-- back to top end -->
+
+    <?php include_once ('header.php') ?>
+
+    <main>
+        <!-- breadcrumb area start -->
+        <div class="tp-page-title-area pt-180 pb-70 position-relative fix" data-background="assets/img/slider/breadcrumb-9.jpg">
+            <div class="tp-custom-container">
+                <div class="row">
+                    <div class="col-12">
+                        <div class="tp-page-title z-index">
+                            <h2 class="breadcrumb-title"><span style="color:#fed10c;">Service</span></h2>
+                            <div class="breadcrumb-menu">
+                                <nav class="breadcrumb-trail breadcrumbs">
+                                    <ul class="trail-items">
+                                        <li class="trail-item trail-begin"><a href="index">Home</a>
+                                        </li>
+                                        <li class="trail-item trail-begin"><a href="cleaning-services">Other Services</a>
+                                        </li>
+                                        <li class="trail-item trail-end"><span>Service</span></li>
+                                    </ul>
+                                </nav>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!-- breadcrumb area end -->
+
+        <!-- faq area start here -->
+        <section class="tp-service-details-area pt-80 pb-80">
+            <div class="container">
+                <div class="row">
+                    <!-- Sidebar -->
+                    <div class="col-xl-4 col-lg-4">
+                        <div class="tp-service-widget wow fadeInUp" data-wow-delay=".2s">
+                            <h4 class="tp-service-widget-title">Other Services</h4>
+                            <div class="tp-service-widget-list">
+                                <ul>
+                                    <li><a href="sales-service-bangalore">Sales <i class="fas fa-angle-right"></i></a></li>
+                                    <li><a href="klean-max-service-bangalore" class="active">Service <i class="fas fa-angle-right"></i></a></li>
+                                    <li><a href="rental-service-bangalore">Rental <i class="fas fa-angle-right"></i></a></li>
+                                </ul>
+                            </div>
+
+                            <div class="tp-service-quote-box mt-4">
+                                <h4>Need Equipment Maintenance?</h4>
+                                <p style="color: #001224; font-weight: 500; margin-bottom: 20px; font-size: 14px;">Contact our service team today for quick assistance.</p>
+                                <a href="contact" class="theme-btn text-center w-100" style="background:#001224; color:#fff;">Contact Us</a>
+                            </div>
+                        </div>
+                    </div>
+
+                    <!-- Main Content -->
+                    <div class="col-xl-8 col-lg-8">
+                        <div class="tp-service-details wow fadeInUp" data-wow-delay=".4s">
+                            
+                            <!-- Hero Images -->
+                            <div class="row mb-30">
+                                <div class="col-12">
+                                    <div class="premium-product-img mb-30" style="padding: 0;">
+                                        <img src="assets/img/service/premium-service-banner.png" alt="Cleaning Equipments Servicing" class="img-fluid rounded" style="max-height: 450px; width: 100%; object-fit: cover;">
+                                    </div>
+                                </div>
+                            </div>
+
+                            <h2 class="tp-section-title heading-color-black mb-20" style="font-size: 32px;">Cleaning Equipment's Service in Bangalore</h2>
+                            <p class="mb-20" style="font-size: 16px; color: #555; line-height: 1.8;">Minimize operational downtime with our expert industrial cleaning equipment repair and maintenance services across Bangalore. We provide fast, reliable servicing for all major brands, utilizing our state-of-the-art in-house facility to manufacture critical spare parts at highly competitive prices. From on-site emergency repairs for ride-on scrubbers to comprehensive Annual Maintenance Contracts (AMC) for heavy-duty sweepers, our highly trained technicians ensure your commercial cleaning machinery always operates at peak efficiency and hygiene.</p>
+                            
+                            <h5 class="mb-3 mt-4" style="color: #001224; font-weight: 700;">Our Advantage:</h5>
+                            <ul class="premium-check-list mb-40"> 
+                                <li>For Our AMC Clients, eight services will be maintained and every callback service will be attended to.</li>
+                                <li>If AMC machines have any faults, we will provide an alternative machine until the fault has been rectified.</li>
+                            </ul>
+
+                            <h3 class="tp-service-details-subtitle mb-40">Our Range of Products</h3>
+
+                            <!-- Product 1: Auto Scrubber -->
+                            <div class="premium-product-card">
+                                <div class="row align-items-center">
+                                    <div class="col-xl-5">
+                                        <div class="premium-product-img">
+                                            <img src="assets/img/service/auto-scrubber.jpg" alt="Auto Scrubber Service">
+                                        </div>
+                                    </div>
+                                    <div class="col-xl-7">
+                                        <h3 class="tp-service-details-subtitle kleanmax-subtitle">Auto Scrubber</h3>
+                                        <p class="mb-10" style="color: #555;">Walk-behind auto scrubber servicing available for all brands. We fix brushes, motors, squeegees, batteries, and water tanks with genuine parts.</p>
+                                        <a href="product-auto-scrubber" class="btn-custom mt-3" style="padding: 10px 24px; font-size: 14px;">Learn More</a>
+                                    </div>
+                                </div>
+                            </div>
+
+                            <!-- Product 2: Ride on Scrubber -->
+                            <div class="premium-product-card">
+                                <div class="row align-items-center flex-row-reverse">
+                                    <div class="col-xl-5">
+                                        <div class="premium-product-img">
+                                            <img src="assets/img/service/floor-scrubber.jpg" alt="Ride on Scrubber Service">
+                                        </div>
+                                    </div>
+                                    <div class="col-xl-7">
+                                        <h3 class="tp-service-details-subtitle kleanmax-subtitle">Ride-On Scrubber</h3>
+                                        <p class="mb-10" style="color: #555;">Full service and AMC for ride-on scrubbers. Our technicians handle on-site repairs, preventive maintenance, and parts replacement across Bangalore.</p>
+                                        <a href="product-ride-on-scrubber" class="btn-custom mt-3" style="padding: 10px 24px; font-size: 14px;">Learn More</a>
+                                    </div>
+                                </div>
+                            </div>
+
+                            <!-- Product 3: Ride on Sweeper -->
+                            <div class="premium-product-card">
+                                <div class="row align-items-center">
+                                    <div class="col-xl-5">
+                                        <div class="premium-product-img">
+                                            <img src="assets/img/service/floor-sweepers.jpg" alt="Ride on Sweeper Service">
+                                        </div>
+                                    </div>
+                                    <div class="col-xl-7">
+                                        <h3 class="tp-service-details-subtitle kleanmax-subtitle">Ride-On Sweeper</h3>
+                                        <p class="mb-10" style="color: #555;">Sweeper maintenance including brush replacement, filter cleaning, engine servicing, and full annual maintenance contracts (AMC) available.</p>
+                                        <a href="product-ride-on-sweeper" class="btn-custom mt-3" style="padding: 10px 24px; font-size: 14px;">Learn More</a>
+                                    </div>
+                                </div>
+                            </div>
+
+                            <!-- Product 4: Single Disc Scrubber -->
+                            <div class="premium-product-card">
+                                <div class="row align-items-center flex-row-reverse">
+                                    <div class="col-xl-5">
+                                        <div class="premium-product-img">
+                                            <img src="assets/img/service/single-disc-scrubbers.jpg" alt="Single Disc Scrubber Service">
+                                        </div>
+                                    </div>
+                                    <div class="col-xl-7">
+                                        <h3 class="tp-service-details-subtitle kleanmax-subtitle">Single Disc Scrubber</h3>
+                                        <p class="mb-10" style="color: #555;">Single disc machine servicing for all floor types. We supply genuine pads, brushes, and handle motor faults and cable repairs on-site.</p>
+                                        <a href="product-single-disc-scrubber" class="btn-custom mt-3" style="padding: 10px 24px; font-size: 14px;">Learn More</a>
+                                    </div>
+                                </div>
+                            </div>
+
+                            <!-- Product 5: Vacuum Cleaner -->
+                            <div class="premium-product-card">
+                                <div class="row align-items-center">
+                                    <div class="col-xl-5">
+                                        <div class="premium-product-img">
+                                            <img src="assets/img/service/vacuum-cleaner.jpg" alt="Industrial Vacuum Cleaner Service">
+                                        </div>
+                                    </div>
+                                    <div class="col-xl-7">
+                                        <h3 class="tp-service-details-subtitle kleanmax-subtitle">Industrial Vacuum Cleaner</h3>
+                                        <p class="mb-10" style="color: #555;">Vacuum cleaner repair and servicing — motor overhaul, hose replacement, HEPA filter change, and suction power restoration for all brands.</p>
+                                        <a href="product-vacuum-cleaner" class="btn-custom mt-3" style="padding: 10px 24px; font-size: 14px;">Learn More</a>
+                                    </div>
+                                </div>
+                            </div>
+                            
+                            <div class="mt-4 mb-4">
+                                <h3 class="tp-service-details-subtitle">Expert Cleaning Equipment Maintenance & Service in Bangalore</h3>
+                                <p style="color: #555;">To keep your operations running smoothly, industrial cleaning equipment requires regular professional maintenance. At Klean Max Pro, we provide comprehensive repair and maintenance services for all major brands of auto scrubbers, sweepers, and vacuum cleaners across Bangalore. Our rapid-response technicians ensure minimal downtime by fixing issues on-site with genuine spare parts. Regular servicing not only extends the lifespan of your machines but also ensures they operate at peak efficiency, safeguarding your facility’s hygiene standards.</p>
+                            </div>
+                            
+                            <h3 class="tp-service-details-subtitle mt-50">Why Klean Max Pro is Bangalore's First Choice</h3>
+                            <div class="row text-center mt-4">
+                                <div class="col-md-4 mb-3">
+                                    <div class="tp-service-feature-card">
+                                        <i class="fas fa-tools"></i>
+                                        <h5>Expert Technicians</h5>
+                                        <p class="small" style="margin-bottom:0;">Trained to repair all major cleaning machinery brands.</p>
+                                    </div>
+                                </div>
+                                <div class="col-md-4 mb-3">
+                                    <div class="tp-service-feature-card">
+                                        <i class="fas fa-cogs"></i>
+                                        <h5>Genuine Parts</h5>
+                                        <p class="small" style="margin-bottom:0;">In-house spares creation lowering costs significantly.</p>
+                                    </div>
+                                </div>
+                                <div class="col-md-4 mb-3">
+                                    <div class="tp-service-feature-card">
+                                        <i class="fas fa-stopwatch"></i>
+                                        <h5>Quick Turnaround</h5>
+                                        <p class="small" style="margin-bottom:0;">Alternative machines provided during lengthy repairs.</p>
+                                    </div>
+                                </div>
+                            </div>
+                            
+                            <div class="cta-box">
+                                <h2 class="text-white mb-15">Need Quick Equipment Service?</h2>
+                                <p style="color: rgba(255,255,255,0.8); font-size: 18px;">Join our satisfied clients with AMC services in Bangalore.</p>
+                                <div class="mt-4">
+                                    <a href="contact" class="btn-custom">Book a Service</a>
+                                    <a href="tel:+919876543210" class="btn btn-outline-light ms-3" style="padding: 13px 35px; border-radius: 5px; font-weight: 700;">Call Us Now</a>
+                                </div>
+                            </div>
+
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+        <!-- faq area end here -->
+    
+    </main>
+
+    <?php include_once ('footer.php') ?>
+
+    <!-- JS here -->
+    <script src="assets/js/vendor/jquery.min.js"></script>
+    <script src="assets/js/bootstrap.bundle.min.js"></script>
+    <script src="assets/js/swiper-bundle.js"></script>
+    <script src="assets/js/venobox.min.js"></script>
+    <script src="assets/js/backToTop.js"></script>
+    <script src="assets/js/jquery.meanmenu.min.js"></script>
+    <script src="assets/js/jquery.magnific-popup.min.js"></script>
+    <script src="assets/js/ajax-form.js"></script>
+    <script src="assets/js/wow.min.js"></script>
+    <script src="assets/js/main.js"></script>
+</body>
+
+</html>
+<?php ob_end_flush(); ?>
