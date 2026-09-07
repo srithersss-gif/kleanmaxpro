@@ -7,9 +7,43 @@ ob_start();
 <head>
     <meta charset="utf-8">
     <meta http-equiv="x-ua-compatible" content="ie=edge">
-    <title>Rental Service of Cleaning Equipment's| Cleaning Machine Rental In Chennai | Kleanmax Pro</title>
-    <meta name="description" content="Cleaning Machine Rentals in Chennai, Kleanmax Pro Cleaning Equipment, Including Auto Scrubbers, Ride-On Sweepers, Vacuum Cleaners, And More. Flexible Plans, Reliable Service, And Well-Maintained Machines.">
+    <title>Cleaning Equipment Rental Chennai | Scrubber Dryer & Machine Hire | Kleanmax Pro</title>
+    <meta name="description" content="Flexible cleaning machine rental in Chennai. Daily, weekly & monthly hire for auto scrubber dryers, ride-on sweepers, and industrial vacuums with 24-hr replacement guarantee.">
     <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="canonical" href="https://www.kleanmaxpro.com/rental-service">
+
+    <!-- Open Graph -->
+    <meta property="og:type" content="website">
+    <meta property="og:title" content="Cleaning Equipment Rental Chennai | Kleanmax Pro">
+    <meta property="og:description" content="Hire scrubber dryers, industrial sweepers and vacuum cleaners on daily, weekly, and monthly rental in Chennai.">
+    <meta property="og:url" content="https://www.kleanmaxpro.com/rental-service">
+    <meta property="og:image" content="https://www.kleanmaxpro.com/assets/img/service/premium-sales-banner.png">
+
+    <!-- Service Schema -->
+    <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "Service",
+      "name": "Cleaning Equipment Rental Service",
+      "serviceType": "Industrial Cleaning Equipment Rental",
+      "provider": {
+        "@type": "LocalBusiness",
+        "name": "Kleanmax Pro",
+        "url": "https://www.kleanmaxpro.com/",
+        "telephone": "+91-7338882034",
+        "address": {
+          "@type": "PostalAddress",
+          "streetAddress": "6, Jayam Industrial Estate, Chettyar Agaram 1st St, Vanagaram",
+          "addressLocality": "Chennai",
+          "addressRegion": "Tamil Nadu",
+          "postalCode": "600095",
+          "addressCountry": "IN"
+        }
+      },
+      "areaServed": "Chennai, Tamil Nadu",
+      "description": "Short-term and long-term rental of floor scrubbers, road sweepers, and industrial vacuums with maintenance and standby replacement included."
+    }
+    </script>
 
     <link rel="manifest" href="site.webmanifest">
     <link rel="shortcut icon" type="image/x-icon" href="assets/klean-favicon.png">

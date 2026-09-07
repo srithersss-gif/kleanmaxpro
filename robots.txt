@@ -1,0 +1,11 @@
+User-agent: *
+Allow: /
+
+# Disallow private and system backend directories
+Disallow: /assets/inc/
+Disallow: /zohoverify/
+Disallow: /cleaning/dock/
+Disallow: /cleaning1/
+
+# Canonical XML Sitemap
+Sitemap: https://www.kleanmaxpro.com/sitemap.xml

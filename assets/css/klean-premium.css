@@ -126,13 +126,15 @@ h6,
 }
 
 .tp-slider-title-two {
-  text-shadow: 2px 4px 20px rgba(0, 0, 0, 0.6) !important;
+  color: #ffffff !important;
+  text-shadow: 0 4px 25px rgba(0, 0, 0, 0.92), 0 2px 8px rgba(0, 0, 0, 0.98) !important;
   letter-spacing: -0.5px;
   line-height: 1.15 !important;
 }
 
 .tp-slider-title-two span {
-  color: var(--kp-accent) !important;
+  color: #FED10C !important;
+  text-shadow: 0 4px 25px rgba(0, 0, 0, 0.92), 0 2px 8px rgba(0, 0, 0, 0.98) !important;
   -webkit-text-stroke: 0;
 }
 

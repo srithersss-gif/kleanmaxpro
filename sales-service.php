@@ -7,9 +7,43 @@ ob_start();
 <head>
     <meta charset="utf-8">
     <meta http-equiv="x-ua-compatible" content="ie=edge">
-    <title>Sales Cleaning Equipment's | Cleaning Machines For Sale In Chennai | Industrial Cleaning Equipment Chennai | Auto Scrubber Machine Dealers In Chennai | Kleanmax Pro</title>
-    <meta name="description" content="Cleaning Machines Rental & Sales in Chennai, Including Auto Scrubbers, Ride-On Sweepers, Single Disc Machines, And Industrial Vacuum Cleaners with Expert Support and Best Pricing.">
+    <title>Cleaning Equipment Suppliers in Chennai | Industrial Floor Cleaning Machines | Kleanmax Pro</title>
+    <meta name="description" content="Authorized suppliers of industrial & commercial cleaning equipment in Chennai. Walk-behind & ride-on scrubber dryers, sweepers, vacuum cleaners, and pressure washers with free on-site demo.">
     <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="canonical" href="https://www.kleanmaxpro.com/sales-service">
+
+    <!-- Open Graph -->
+    <meta property="og:type" content="website">
+    <meta property="og:title" content="Cleaning Equipment Suppliers in Chennai | Kleanmax Pro">
+    <meta property="og:description" content="Commercial & industrial cleaning equipment for sale in Chennai. Scrubber dryers, sweepers, vacuum cleaners & pressure washers.">
+    <meta property="og:url" content="https://www.kleanmaxpro.com/sales-service">
+    <meta property="og:image" content="https://www.kleanmaxpro.com/assets/img/service/premium-sales-banner.png">
+
+    <!-- Service Schema -->
+    <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "Service",
+      "name": "Cleaning Equipment Sales Service",
+      "serviceType": "Industrial Cleaning Equipment Supply",
+      "provider": {
+        "@type": "LocalBusiness",
+        "name": "Kleanmax Pro",
+        "url": "https://www.kleanmaxpro.com/",
+        "telephone": "+91-7338882034",
+        "address": {
+          "@type": "PostalAddress",
+          "streetAddress": "6, Jayam Industrial Estate, Chettyar Agaram 1st St, Vanagaram",
+          "addressLocality": "Chennai",
+          "addressRegion": "Tamil Nadu",
+          "postalCode": "600095",
+          "addressCountry": "IN"
+        }
+      },
+      "areaServed": "Chennai, Tamil Nadu",
+      "description": "Supply, delivery, installation, and operator training for commercial and industrial floor cleaning machines including scrubber dryers, sweepers, and vacuum cleaners."
+    }
+    </script>
 
     <link rel="manifest" href="site.webmanifest">
     <link rel="shortcut icon" type="image/x-icon" href="assets/klean-favicon.png">

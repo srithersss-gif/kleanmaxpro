@@ -8,6 +8,15 @@
     <meta name="description" content="The Single Disc Scrubber from Kleanmax Pro is the most versatile floor care machine for polishing, scrubbing, and buffing all floor types. Available for sale, rental, and AMC in Chennai.">
     <meta name="keywords" content="single disc scrubber Chennai, floor polishing machine rental, floor scrubber machine Chennai, single disc machine, carpet scrubber machine">
     <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="canonical" href="https://www.kleanmaxpro.com/product-single-disc-scrubber">
+
+    <!-- Open Graph -->
+    <meta property="og:type" content="product">
+    <meta property="og:title" content="Single Disc Scrubber Machine – Buy, Rent & Service in Chennai | Kleanmax Pro">
+    <meta property="og:description" content="Commercial Single Disc Scrubber for floor scrubbing, buffing, and marble polishing across Chennai.">
+    <meta property="og:url" content="https://www.kleanmaxpro.com/product-single-disc-scrubber">
+    <meta property="og:image" content="https://www.kleanmaxpro.com/assets/img/service/single-disc-scrubbers.jpg">
+
     <link rel="shortcut icon" type="image/x-icon" href="assets/klean-favicon.png">
     <link rel="stylesheet" href="assets/css/bootstrap.min.css">
     <link rel="stylesheet" href="assets/css/animate.min.css">
@@ -24,7 +33,33 @@
     <link rel="stylesheet" href="assets/css/responsive.css">
     <style>
         .tp-main-menu-two ul li a:after { display:none; }
-        </style>
+    </style>
+    <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "Product",
+      "name": "Single Disc Floor Scrubber & Polisher",
+      "image": "https://www.kleanmaxpro.com/assets/img/service/single-disc-scrubbers.jpg",
+      "description": "Multi-purpose single disc floor machine that scrubs, polishes, strips, and buffs marble, granite, vinyl, and tile floors in Chennai.",
+      "brand": {
+        "@type": "Brand",
+        "name": "Kleanmax Pro"
+      },
+      "offers": {
+        "@type": "AggregateOffer",
+        "priceCurrency": "INR",
+        "lowPrice": "38000",
+        "highPrice": "85000",
+        "offerCount": "4",
+        "availability": "https://schema.org/InStock",
+        "seller": {
+          "@type": "Organization",
+          "name": "Kleanmax Pro",
+          "url": "https://www.kleanmaxpro.com/"
+        }
+      }
+    }
+    </script>
 </head>
 <body>
 <div class="progress-wrap">

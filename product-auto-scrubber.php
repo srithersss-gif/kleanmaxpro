@@ -8,6 +8,15 @@
     <meta name="description" content="Explore Kleanmax Pro's Auto Scrubber (Walk-Behind Scrubber) for commercial & industrial floor cleaning in Chennai. Efficient, fast-drying, and ideal for areas 3000 sqft+.">
     <meta name="keywords" content="auto scrubber machine Chennai, walk-behind scrubber, floor scrubbing machine rental, automatic scrubber Chennai, commercial floor cleaner">
     <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="canonical" href="https://www.kleanmaxpro.com/product-auto-scrubber">
+
+    <!-- Open Graph -->
+    <meta property="og:type" content="product">
+    <meta property="og:title" content="Auto Scrubber Machine – Buy, Rent & Service in Chennai | Kleanmax Pro">
+    <meta property="og:description" content="Explore Kleanmax Pro's Auto Scrubber (Walk-Behind Scrubber) for commercial & industrial floor cleaning in Chennai.">
+    <meta property="og:url" content="https://www.kleanmaxpro.com/product-auto-scrubber">
+    <meta property="og:image" content="https://www.kleanmaxpro.com/assets/img/service/auto-scrubber.jpg">
+
     <link rel="shortcut icon" type="image/x-icon" href="assets/klean-favicon.png">
     <link rel="stylesheet" href="assets/css/bootstrap.min.css">
     <link rel="stylesheet" href="assets/css/animate.min.css">
@@ -27,9 +36,32 @@
         .product-hero { background: linear-gradient(135deg, #001224 0%, #003566 100%); padding: 60px 0 40px; color: #fff; }
         .product-hero h1 { font-size: 42px; font-weight: 800; }
         .product-hero h1 span { color: #FED10C; }
-        </style>
+    </style>
     <script type="application/ld+json">
-    {"@context":"https://schema.org","@type":"Product","name":"Auto Scrubber Machine","description":"Walk-behind auto scrubber for commercial and industrial floor cleaning in Chennai. Available for sale, rental, and AMC service.","brand":{"@type":"Brand","name":"Kleanmax Pro"},"offers":{"@type":"AggregateOffer","availability":"https://schema.org/InStock","seller":{"@type":"Organization","name":"Kleanmax Pro","url":"https://kleanmaxpro.com"}}}
+    {
+      "@context": "https://schema.org",
+      "@type": "Product",
+      "name": "Auto Scrubber Machine",
+      "image": "https://www.kleanmaxpro.com/assets/img/service/auto-scrubber.jpg",
+      "description": "Walk-behind auto scrubber for commercial and industrial floor cleaning in Chennai. Available for sale, rental, and AMC service.",
+      "brand": {
+        "@type": "Brand",
+        "name": "Kleanmax Pro"
+      },
+      "offers": {
+        "@type": "AggregateOffer",
+        "priceCurrency": "INR",
+        "lowPrice": "85000",
+        "highPrice": "250000",
+        "offerCount": "5",
+        "availability": "https://schema.org/InStock",
+        "seller": {
+          "@type": "Organization",
+          "name": "Kleanmax Pro",
+          "url": "https://www.kleanmaxpro.com/"
+        }
+      }
+    }
     </script>
 </head>
 <body>

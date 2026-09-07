@@ -7,6 +7,22 @@ $root = __DIR__;
 $uri = parse_url($_SERVER['REQUEST_URI'], PHP_URL_PATH);
 $uri = rawurldecode($uri);
 
+// 301 Redirect map for legacy/alternative routes
+$redirects = [
+    '/equipment-sales' => '/sales-service',
+    '/equipment-rental' => '/rental-service',
+    '/service-amc' => '/klean-max-service',
+    '/machine-repair' => '/klean-max-service',
+    '/office-cleaning-services' => '/office-cleaning',
+    '/office-cleaning-services/' => '/office-cleaning',
+];
+
+$trimmedCheck = rtrim($uri, '/');
+if (isset($redirects[$trimmedCheck])) {
+    header("Location: " . $redirects[$trimmedCheck], true, 301);
+    exit;
+}
+
 $filePath = $root . $uri;
 
 // 1. Direct file match (css, js, images, existing php/html files, etc.)

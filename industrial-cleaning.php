@@ -12,6 +12,7 @@ ob_start();
     <meta name="description" content="Kleanmax Pro offers expert industrial cleaning services in Chennai. We handle manufacturing plants, warehouses, and heavy machinery with safe, eco-friendly solutions.">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="keywords" content="industrial cleaning services chennai, industrial cleaners, manufacturing plant cleaning, warehouse cleaning, heavy machinery cleaning chennai, industrial floor scrubbing">
+    <link rel="canonical" href="https://www.kleanmaxpro.com/industrial-cleaning">
 
     <link rel="shortcut icon" href="assets/klean-favicon.png">
 

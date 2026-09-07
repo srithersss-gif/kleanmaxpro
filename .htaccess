@@ -6,6 +6,13 @@ RewriteBase /
     Require all denied
 </FilesMatch>
 
+# 301 Redirects for Legacy and Alternative URLs
+RewriteRule ^equipment-sales/?$ /sales-service [R=301,L]
+RewriteRule ^equipment-rental/?$ /rental-service [R=301,L]
+RewriteRule ^service-amc/?$ /klean-max-service [R=301,L]
+RewriteRule ^machine-repair/?$ /klean-max-service [R=301,L]
+RewriteRule ^office-cleaning-services/?$ /office-cleaning [R=301,L]
+
 # Unless directory, remove trailing slash
 RewriteCond %{REQUEST_FILENAME} !-d
 RewriteRule ^([^/]+)/$ $1 [R=301,L]

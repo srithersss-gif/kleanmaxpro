@@ -4,9 +4,17 @@
 <head>
     <meta charset="utf-8">
     <meta http-equiv="x-ua-compatible" content="ie=edge">
-    <title>About Us | Best Cleaning Service in Chennai | Office Cleaning Service in Chennai | Industrial Cleaning Service in Chennai | Commercial Cleaning Service in Chennai | Warehouse Cleaning Service in Chennai | Factory Cleaning Service in Chennai | Kleanmax Pro</title>
-    <meta name="description" content="professional Office,Industrial,Factory,Warehouse and Commercial Cleaning Service In Chennai | Trusted Experts in Deep Cleaning and Machine Rentals">
+    <title>About Kleanmax Pro | 15+ Years Cleaning Equipment Experts in Chennai</title>
+    <meta name="description" content="Learn about Kleanmax Pro, Chennai's trusted supplier, rental provider, and service center for commercial and industrial cleaning equipment with 15+ years of excellence.">
     <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="canonical" href="https://www.kleanmaxpro.com/about">
+
+    <!-- Open Graph -->
+    <meta property="og:type" content="website">
+    <meta property="og:title" content="About Kleanmax Pro | Cleaning Equipment Specialists">
+    <meta property="og:description" content="15+ years of delivering trusted commercial and industrial cleaning machines, rentals, and service support across Chennai.">
+    <meta property="og:url" content="https://www.kleanmaxpro.com/about">
+    <meta property="og:image" content="https://www.kleanmaxpro.com/assets/img/service/premium-sales-banner.png">
 
     <link rel="manifest" href="site.webmanifest">
     <link rel="shortcut icon" type="image/x-icon" href="assets/klean-favicon.png">

@@ -8,6 +8,15 @@
     <meta name="description" content="Industrial Ride-On Sweeper from Kleanmax Pro for large outdoor and indoor sweeping in Chennai. Ideal for warehouses, construction sites, and parking areas. Available for sale, rental, and AMC.">
     <meta name="keywords" content="ride on sweeper Chennai, industrial sweeper machine, outdoor sweeper rental, floor sweeper Chennai, warehouse sweeper machine">
     <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="canonical" href="https://www.kleanmaxpro.com/product-ride-on-sweeper">
+
+    <!-- Open Graph -->
+    <meta property="og:type" content="product">
+    <meta property="og:title" content="Ride-On Sweeper Machine – Buy, Rent & Service in Chennai | Kleanmax Pro">
+    <meta property="og:description" content="Industrial Ride-On Sweeper for large outdoor and indoor sweeping in Chennai. Ideal for warehouses, factories, and parking lots.">
+    <meta property="og:url" content="https://www.kleanmaxpro.com/product-ride-on-sweeper">
+    <meta property="og:image" content="https://www.kleanmaxpro.com/assets/img/service/floor-sweepers.jpg">
+
     <link rel="shortcut icon" type="image/x-icon" href="assets/klean-favicon.png">
     <link rel="stylesheet" href="assets/css/bootstrap.min.css">
     <link rel="stylesheet" href="assets/css/animate.min.css">
@@ -24,7 +33,33 @@
     <link rel="stylesheet" href="assets/css/responsive.css">
     <style>
         .tp-main-menu-two ul li a:after { display:none; }
-        </style>
+    </style>
+    <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "Product",
+      "name": "Industrial Ride-On Sweeper Machine",
+      "image": "https://www.kleanmaxpro.com/assets/img/service/floor-sweepers.jpg",
+      "description": "Heavy-duty ride-on industrial road and floor sweeper with dust filtration for warehouses, factory premises, and parking lots in Chennai.",
+      "brand": {
+        "@type": "Brand",
+        "name": "Kleanmax Pro"
+      },
+      "offers": {
+        "@type": "AggregateOffer",
+        "priceCurrency": "INR",
+        "lowPrice": "420000",
+        "highPrice": "950000",
+        "offerCount": "3",
+        "availability": "https://schema.org/InStock",
+        "seller": {
+          "@type": "Organization",
+          "name": "Kleanmax Pro",
+          "url": "https://www.kleanmaxpro.com/"
+        }
+      }
+    }
+    </script>
 </head>
 <body>
 <div class="progress-wrap">

@@ -12,6 +12,7 @@ ob_start();
     <meta name="description" content="Kleanmax Pro offers expert factory cleaning services in Chennai. We use advanced equipment for dust, oil, and heavy residue removal in manufacturing plants.">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="keywords" content="factory cleaning services chennai, industrial factory cleaning, factory deep cleaning, manufacturing plant cleaning, warehouse floor cleaning chennai">
+    <link rel="canonical" href="https://www.kleanmaxpro.com/factory-cleaning">
 
     <link rel="shortcut icon" href="assets/klean-favicon.png">
 

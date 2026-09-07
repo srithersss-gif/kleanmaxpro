@@ -12,6 +12,7 @@ ob_start();
     <meta name="description" content="Kleanmax Pro provides professional commercial cleaning services in Chennai for offices, retail stores, corporate buildings, IT parks & institutions using eco-friendly methods.">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="keywords" content="commercial cleaning services chennai, commercial cleaners chennai, corporate cleaning services, retail cleaning chennai, building cleaning services chennai">
+    <link rel="canonical" href="https://www.kleanmaxpro.com/commercial-cleaning">
 
     <link rel="shortcut icon" href="assets/klean-favicon.png">
 

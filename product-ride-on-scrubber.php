@@ -8,6 +8,15 @@
     <meta name="description" content="Kleanmax Pro's Ride-On Scrubber is built for massive floors. Perfect for warehouses, airports, and large industrial facilities across Chennai. Available for sale, rental, and AMC.">
     <meta name="keywords" content="ride on scrubber Chennai, ride on floor scrubber, industrial scrubber machine, large area floor scrubber rental Chennai, ride-on scrubber dryer">
     <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="canonical" href="https://www.kleanmaxpro.com/product-ride-on-scrubber">
+
+    <!-- Open Graph -->
+    <meta property="og:type" content="product">
+    <meta property="og:title" content="Ride-On Scrubber Machine – Buy, Rent & Service in Chennai | Kleanmax Pro">
+    <meta property="og:description" content="Large-area ride-on floor scrubber for industrial and commercial cleaning in Chennai. Heavy-duty, high productivity up to 8,000 m2/hr.">
+    <meta property="og:url" content="https://www.kleanmaxpro.com/product-ride-on-scrubber">
+    <meta property="og:image" content="https://www.kleanmaxpro.com/assets/img/service/floor-scrubber.jpg">
+
     <link rel="shortcut icon" type="image/x-icon" href="assets/klean-favicon.png">
     <link rel="stylesheet" href="assets/css/bootstrap.min.css">
     <link rel="stylesheet" href="assets/css/animate.min.css">
@@ -24,9 +33,32 @@
     <link rel="stylesheet" href="assets/css/responsive.css">
     <style>
         .tp-main-menu-two ul li a:after { display:none; }
-        </style>
+    </style>
     <script type="application/ld+json">
-    {"@context":"https://schema.org","@type":"Product","name":"Ride-On Scrubber Machine","description":"Large-area ride-on floor scrubber for industrial and commercial cleaning in Chennai. Available for sale, rental, and AMC.","brand":{"@type":"Brand","name":"Kleanmax Pro"},"offers":{"@type":"AggregateOffer","availability":"https://schema.org/InStock","seller":{"@type":"Organization","name":"Kleanmax Pro"}}}
+    {
+      "@context": "https://schema.org",
+      "@type": "Product",
+      "name": "Ride-On Scrubber Machine",
+      "image": "https://www.kleanmaxpro.com/assets/img/service/floor-scrubber.jpg",
+      "description": "Large-area ride-on floor scrubber for industrial and commercial cleaning in Chennai. Available for sale, rental, and AMC.",
+      "brand": {
+        "@type": "Brand",
+        "name": "Kleanmax Pro"
+      },
+      "offers": {
+        "@type": "AggregateOffer",
+        "priceCurrency": "INR",
+        "lowPrice": "350000",
+        "highPrice": "850000",
+        "offerCount": "4",
+        "availability": "https://schema.org/InStock",
+        "seller": {
+          "@type": "Organization",
+          "name": "Kleanmax Pro",
+          "url": "https://www.kleanmaxpro.com/"
+        }
+      }
+    }
     </script>
 </head>
 <body>

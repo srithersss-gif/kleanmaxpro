@@ -8,6 +8,15 @@
     <meta name="description" content="Kleanmax Pro's Industrial Wet & Dry Vacuum Cleaner offers powerful suction for post-construction cleanup, carpet cleaning, and daily janitorial use across Chennai. Available for sale, rental, and AMC.">
     <meta name="keywords" content="industrial vacuum cleaner Chennai, wet dry vacuum rental, commercial vacuum cleaner, heavy duty vacuum machine Chennai, HEPA vacuum cleaner rental">
     <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="canonical" href="https://www.kleanmaxpro.com/product-vacuum-cleaner">
+
+    <!-- Open Graph -->
+    <meta property="og:type" content="product">
+    <meta property="og:title" content="Industrial Wet & Dry Vacuum Cleaner – Buy, Rent & Service in Chennai | Kleanmax Pro">
+    <meta property="og:description" content="Industrial Vacuum Cleaners from Kleanmax Pro for heavy-duty commercial and factory cleaning in Chennai. Wet & dry pickup.">
+    <meta property="og:url" content="https://www.kleanmaxpro.com/product-vacuum-cleaner">
+    <meta property="og:image" content="https://www.kleanmaxpro.com/assets/img/service/vacuum-cleaner.jpg">
+
     <link rel="shortcut icon" type="image/x-icon" href="assets/klean-favicon.png">
     <link rel="stylesheet" href="assets/css/bootstrap.min.css">
     <link rel="stylesheet" href="assets/css/animate.min.css">
@@ -24,7 +33,33 @@
     <link rel="stylesheet" href="assets/css/responsive.css">
     <style>
         .tp-main-menu-two ul li a:after { display:none; }
-        </style>
+    </style>
+    <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "Product",
+      "name": "Industrial Wet and Dry Vacuum Cleaner",
+      "image": "https://www.kleanmaxpro.com/assets/img/service/vacuum-cleaner.jpg",
+      "description": "Heavy-duty commercial and industrial wet & dry vacuum cleaner with high suction capacity for liquid spills, construction dust, and factory shop floors in Chennai.",
+      "brand": {
+        "@type": "Brand",
+        "name": "Kleanmax Pro"
+      },
+      "offers": {
+        "@type": "AggregateOffer",
+        "priceCurrency": "INR",
+        "lowPrice": "22000",
+        "highPrice": "65000",
+        "offerCount": "4",
+        "availability": "https://schema.org/InStock",
+        "seller": {
+          "@type": "Organization",
+          "name": "Kleanmax Pro",
+          "url": "https://www.kleanmaxpro.com/"
+        }
+      }
+    }
+    </script>
 </head>
 <body>
 <div class="progress-wrap">

@@ -12,6 +12,7 @@ ob_start();
     <meta name="description" content="Looking for the best office cleaning services in Chennai? Kleanmax Pro offers premium corporate, IT park, and commercial cleaning solutions with eco-friendly chemicals. Get a free quote today!">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="keywords" content="office cleaning services chennai, corporate cleaning chennai, commercial cleaning services, janitorial services chennai, deep cleaning for offices, IT Park Maintenance Chennai">
+    <link rel="canonical" href="https://www.kleanmaxpro.com/office-cleaning">
 
     <link rel="shortcut icon" href="assets/klean-favicon.png">
 

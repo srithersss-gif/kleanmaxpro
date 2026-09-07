@@ -8,6 +8,14 @@
     <title>Cleaning Equipment Sales, Rental & Service Locations | Chennai, Coimbatore, Bangalore, Hyderabad | Kleanmax Pro</title>
     <meta name="description" content="Kleanmax Pro serves Chennai, Coimbatore, Bangalore, and Hyderabad with premium industrial cleaning equipment sales, rental, and service. Find your nearest location.">
     <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="canonical" href="https://www.kleanmaxpro.com/locations">
+
+    <!-- Open Graph -->
+    <meta property="og:type" content="website">
+    <meta property="og:title" content="Cleaning Equipment Sales, Rental & Service Locations | Kleanmax Pro">
+    <meta property="og:description" content="Kleanmax Pro serves Chennai, Coimbatore, Bangalore, and Hyderabad with industrial cleaning equipment sales, rental, and service.">
+    <meta property="og:url" content="https://www.kleanmaxpro.com/locations">
+    <meta property="og:image" content="https://www.kleanmaxpro.com/assets/img/service/premium-sales-banner.png">
 
     <link rel="manifest" href="site.webmanifest">
     <link rel="shortcut icon" type="image/x-icon" href="assets/klean-favicon.png">

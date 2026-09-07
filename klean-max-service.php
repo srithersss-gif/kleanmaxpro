@@ -7,9 +7,43 @@ ob_start();
 <head>
     <meta charset="utf-8">
     <meta http-equiv="x-ua-compatible" content="ie=edge">
-    <title>Servicing Cleaning Equipment's | Industrial Cleaning Services In Chennai | Kleanmax Pro</title>
-    <meta name="description" content="Cleaning machine Rental & Services in Chennai, Kleanmax Pro ">
+    <title>Cleaning Machine Service & AMC in Chennai | Scrubber Repair & Spares | Kleanmax Pro</title>
+    <meta name="description" content="Professional cleaning equipment service, maintenance, AMC, and emergency breakdown repair in Chennai. Genuine spare parts, certified technicians for Roots, Taski, Karcher & all brands.">
     <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="canonical" href="https://www.kleanmaxpro.com/klean-max-service">
+
+    <!-- Open Graph -->
+    <meta property="og:type" content="website">
+    <meta property="og:title" content="Cleaning Machine Service & AMC in Chennai | Kleanmax Pro">
+    <meta property="og:description" content="Cleaning equipment repair, comprehensive AMC contracts, and genuine spare parts supply across Chennai.">
+    <meta property="og:url" content="https://www.kleanmaxpro.com/klean-max-service">
+    <meta property="og:image" content="https://www.kleanmaxpro.com/assets/img/service/premium-sales-banner.png">
+
+    <!-- Service Schema -->
+    <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "Service",
+      "name": "Cleaning Machine Maintenance & AMC Service",
+      "serviceType": "Equipment Maintenance and Repair",
+      "provider": {
+        "@type": "LocalBusiness",
+        "name": "Kleanmax Pro",
+        "url": "https://www.kleanmaxpro.com/",
+        "telephone": "+91-7338882034",
+        "address": {
+          "@type": "PostalAddress",
+          "streetAddress": "6, Jayam Industrial Estate, Chettyar Agaram 1st St, Vanagaram",
+          "addressLocality": "Chennai",
+          "addressRegion": "Tamil Nadu",
+          "postalCode": "600095",
+          "addressCountry": "IN"
+        }
+      },
+      "areaServed": "Chennai, Tamil Nadu",
+      "description": "Annual Maintenance Contracts (AMC), emergency breakdown troubleshooting, vacuum motor repairs, and genuine squeegee and brush replacements."
+    }
+    </script>
 
     <link rel="manifest" href="site.webmanifest">
     <link rel="shortcut icon" type="image/x-icon" href="assets/klean-favicon.png">

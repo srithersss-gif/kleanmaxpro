@@ -4,9 +4,17 @@
 <head>
     <meta charset="utf-8">
     <meta http-equiv="x-ua-compatible" content="ie=edge">
-    <title>Contact Us | Cleaning Service Team | Kleanmax Pro</title>
-    <meta name="description" content="Chennai in Best Cleaning Service Company Kleanmax Pro">
+    <title>Contact Kleanmax Pro | Cleaning Equipment & Service in Chennai</title>
+    <meta name="description" content="Contact Kleanmax Pro in Vanagaram, Chennai for cleaning machine sales, rental, AMC, or emergency repairs. Call +91 73388 82034 or request a quote online.">
     <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="canonical" href="https://www.kleanmaxpro.com/contact">
+
+    <!-- Open Graph -->
+    <meta property="og:type" content="website">
+    <meta property="og:title" content="Contact Kleanmax Pro | Cleaning Equipment in Chennai">
+    <meta property="og:description" content="Reach our Chennai sales & technical service desk at 6, Jayam Industrial Estate, Vanagaram. Call +91 73388 82034.">
+    <meta property="og:url" content="https://www.kleanmaxpro.com/contact">
+    <meta property="og:image" content="https://www.kleanmaxpro.com/assets/img/service/premium-sales-banner.png">
 
     <link rel="manifest" href="site.webmanifest">
     <link rel="shortcut icon" type="image/x-icon" href="assets/klean-favicon.png">

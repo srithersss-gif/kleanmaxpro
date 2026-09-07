@@ -14,6 +14,64 @@
     <title>Cleaning Equipment Sales, Rental & Service in Chennai | Kleanmax Pro</title>
     <meta name="description" content="Kleanmax Pro supplies, rents and services genuine cleaning equipment in Chennai - scrubber dryers, high pressure washers, vacuum cleaners, sweepers, AMC and spare parts for commercial and industrial use.">
     <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="canonical" href="https://www.kleanmaxpro.com/">
+
+    <!-- Open Graph / Social Meta -->
+    <meta property="og:type" content="website">
+    <meta property="og:title" content="Cleaning Equipment Sales, Rental & Service in Chennai | Kleanmax Pro">
+    <meta property="og:description" content="Kleanmax Pro supplies, rents and services genuine cleaning equipment in Chennai - scrubber dryers, high pressure washers, vacuum cleaners, sweepers, AMC and spare parts.">
+    <meta property="og:url" content="https://www.kleanmaxpro.com/">
+    <meta property="og:image" content="https://www.kleanmaxpro.com/assets/img/service/premium-sales-banner.png">
+    <meta name="twitter:card" content="summary_large_image">
+
+    <!-- Structured Data Schema -->
+    <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "LocalBusiness",
+          "@id": "https://www.kleanmaxpro.com/#localbusiness",
+          "name": "Kleanmax Pro",
+          "alternateName": "Klean Max Pro Cleaning Equipment",
+          "url": "https://www.kleanmaxpro.com/",
+          "logo": "https://www.kleanmaxpro.com/assets/img/logo/kleanmax-pro-logo1.png",
+          "image": "https://www.kleanmaxpro.com/assets/img/service/premium-sales-banner.png",
+          "description": "Kleanmax Pro supplies, rents and services genuine commercial and industrial cleaning equipment in Chennai, Tamil Nadu.",
+          "telephone": "+91-7338882034",
+          "email": "info@kleanmaxpro.com",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "6, Jayam Industrial Estate, Chettyar Agaram 1st St, Opp to Ishwarya Apts, Vanagaram",
+            "addressLocality": "Chennai",
+            "addressRegion": "Tamil Nadu",
+            "postalCode": "600095",
+            "addressCountry": "IN"
+          },
+          "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": 13.0428,
+            "longitude": 80.1472
+          },
+          "openingHoursSpecification": [
+            {
+              "@type": "OpeningHoursSpecification",
+              "dayOfWeek": ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday"],
+              "opens": "09:00",
+              "closes": "18:30"
+            }
+          ],
+          "areaServed": [
+            {"@type": "City", "name": "Chennai"},
+            {"@type": "City", "name": "Coimbatore"},
+            {"@type": "City", "name": "Bangalore"},
+            {"@type": "City", "name": "Hyderabad"}
+          ],
+          "priceRange": "₹₹ - ₹₹₹₹"
+        }
+      ]
+    }
+    </script>
 
     <link rel="manifest" href="site.webmanifest">
     <link rel="shortcut icon" type="image/x-icon" href="assets/klean-favicon.png">
@@ -57,6 +115,14 @@
 	    font-weight: 500;
 	}
 	.kp-trust-bar span { color: #FED10C; font-weight: 700; }
+	.tp-slider-title-two {
+	    color: #ffffff !important;
+	    text-shadow: 0 4px 25px rgba(0, 0, 0, 0.95), 0 2px 8px rgba(0, 0, 0, 0.98) !important;
+	}
+	.tp-slider-title-two span {
+	    color: #FED10C !important;
+	    text-shadow: 0 4px 25px rgba(0, 0, 0, 0.95), 0 2px 8px rgba(0, 0, 0, 0.98) !important;
+	}
 	</style>
 
 	<!-- Google tag (gtag.js) -->
@@ -99,8 +165,8 @@
                                             <div class="kp-trust-bar wow fadeInDown" data-wow-delay=".3s">
                                                 <span>✦ 15+ Years</span> Trusted Cleaning Equipment Experts in Chennai
                                             </div>
-                                            <h1 class="tp-slider-title-two mb-20" data-animation="fadeInUp" data-delay=".6s"><span>Sales, Rental &amp; Service</span></h1>
-                                            <h3 class="tp-slider-subtitle-two" data-animation="fadeInUp" data-delay=".9s"></h3>
+                                            <h1 class="tp-slider-title-two mb-20" data-animation="fadeInUp" data-delay=".6s" style="color: #ffffff !important; text-shadow: 0 4px 25px rgba(0, 0, 0, 0.95), 0 2px 8px rgba(0, 0, 0, 0.98) !important;">Commercial &amp; Industrial <span style="color: #FED10C !important; text-shadow: 0 4px 25px rgba(0, 0, 0, 0.95), 0 2px 8px rgba(0, 0, 0, 0.98) !important;">Cleaning Equipment</span> in Chennai</h1>
+                                            <h2 class="tp-slider-subtitle-two" data-animation="fadeInUp" data-delay=".9s" style="color: #fff; font-size: 22px; font-weight: 500;">Sales, Flexible Rental &amp; Certified AMC Service Support</h2>
                                             <div class="tp-slider-hero-btns d-flex justify-content-center align-items-center" data-animation="fadeInUp" data-delay="1.1s" style="margin-top: 40px;">
                                                 <a href="contact" class="inquire-hero-btn">Inquire Now <i class="fas fa-arrow-right"></i></a>
                                             </div>
@@ -117,8 +183,8 @@
                                 <div class="col-12">
                                     <div class="tp-slider-wrapper-two text-center mt-35">
                                         <div class="tp-slider-two z-index text-center">
-                                            <h1 class="tp-slider-title-two mb-35" data-animation="fadeInUp" data-delay=".6s" style="color:#fff; text-shadow: 3px 3px 3px #000;"><span>Professional</span>Cleaning Machines</h1>
-                                            <h3 class="tp-slider-subtitle-two" data-animation="fadeInUp" data-delay=".9s" style="color:#fff; text-shadow: 3px 3px 3px #000;">Scrubber Dryers, Pressure Washers, Vacuum Cleaners & More</h3>
+                                            <h2 class="tp-slider-title-two mb-35" data-animation="fadeInUp" data-delay=".6s" style="color:#fff; text-shadow: 3px 3px 3px #000;"><span>Professional</span> Cleaning Machines</h2>
+                                            <p class="tp-slider-subtitle-two" data-animation="fadeInUp" data-delay=".9s" style="color:#fff; text-shadow: 3px 3px 3px #000; font-size: 20px;">Scrubber Dryers, High Pressure Washers, Vacuum Cleaners &amp; Sweepers</p>
                                             <div class="tp-slider-hero-btns d-flex justify-content-center align-items-center" data-animation="fadeInUp" data-delay="1.1s" style="margin-top: 40px;">
                                                 <a href="contact" class="inquire-hero-btn">Inquire Now <i class="fas fa-arrow-right"></i></a>
                                             </div>
@@ -139,8 +205,8 @@
                                 <div class="col-12">
                                     <div class="tp-slider-wrapper-two text-center mt-35">
                                         <div class="tp-slider-two z-index text-center">
-                                            <h1 class="tp-slider-title-two mb-35" data-animation="fadeInUp" data-delay=".6s" style="color:#fff; text-shadow: 3px 3px 3px #000;"><span>Rental &</span> AMC Support</h1>
-                                            <h3 class="tp-slider-subtitle-two" data-animation="fadeInUp" data-delay=".9s" style="color:#fff; text-shadow: 3px 3px 3px #000;">Flexible Rental Plans and Reliable Annual Maintenance Contracts</h3>
+                                            <h2 class="tp-slider-title-two mb-35" data-animation="fadeInUp" data-delay=".6s" style="color:#fff; text-shadow: 3px 3px 3px #000;"><span>Flexible Rental</span> &amp; AMC Support</h2>
+                                            <p class="tp-slider-subtitle-two" data-animation="fadeInUp" data-delay=".9s" style="color:#fff; text-shadow: 3px 3px 3px #000; font-size: 20px;">Flexible Rental Plans and Reliable Annual Maintenance Contracts in Chennai</p>
                                             <div class="tp-slider-hero-btns d-flex justify-content-center align-items-center" data-animation="fadeInUp" data-delay="1.1s" style="margin-top: 40px;">
                                                 <a href="contact" class="inquire-hero-btn">Inquire Now <i class="fas fa-arrow-right"></i></a>
                                             </div>
@@ -390,16 +456,16 @@
                     <div class="col-lg-6">
                         <div class="tp-service-three premium-service-card mb-30 wow fadeInUp" data-wow-delay=".9s">
                             <div class="tp-service-three-img">
-                                <img src="assets/img/service-sales.png" class="img-fluid" alt="Cleaning Equipment Sales">
+                                <img src="assets/img/service-sales.png" class="img-fluid" alt="Commercial Cleaning Equipment Sales Chennai">
                                 <div class="tp-service-three-img-icon" style="background-color: #000;">
                                     <i class="flaticon-desk"></i>
                                 </div>
                             </div>
                             <div class="tp-service-three-text fix">
-                                <h4 class="tp-service-three-title mb-20"><a href="equipment-sales">Equipment Sales</a></h4>
+                                <h4 class="tp-service-three-title mb-20"><a href="sales-service">Equipment Sales</a></h4>
                                 <p class="mb-30">We supply ride-on & walk-behind scrubber dryers, high pressure washers, vacuum cleaners, sweepers and industrial cleaning machines at competitive prices.</p>
                                 <div class="tp-service-three-text-btn">
-                                    <a href="equipment-sales" class="yellow-btn"><i class="flaticon-enter"></i> Inquire Now</a>
+                                    <a href="sales-service" class="yellow-btn"><i class="flaticon-enter"></i> Inquire Now</a>
                                 </div>
                             </div>
                         </div>
@@ -409,16 +475,16 @@
                     <div class="col-lg-6">
                         <div class="tp-service-three premium-service-card mb-30 wow fadeInUp" data-wow-delay=".9s">
                             <div class="tp-service-three-img">
-                                <img src="assets/img/service-slider1.png" class="img-fluid" alt="Cleaning Equipment Rental">
+                                <img src="assets/img/service-slider1.png" class="img-fluid" alt="Industrial Cleaning Equipment Rental Chennai">
                                 <div class="tp-service-three-img-icon" style="background-color: #000;">
                                     <i class="flaticon-desk"></i>
                                 </div>
                             </div>
                             <div class="tp-service-three-text fix">
-                                <h4 class="tp-service-three-title mb-20"><a href="equipment-rental">Equipment Rental</a></h4>
+                                <h4 class="tp-service-three-title mb-20"><a href="rental-service">Equipment Rental</a></h4>
                                 <p class="mb-30">Flexible short and long-term rental plans for scrubber dryers, vacuum cleaners, high pressure washers and industrial cleaning equipment.</p>
                                 <div class="tp-service-three-text-btn">
-                                    <a href="equipment-rental" class="yellow-btn"><i class="flaticon-enter"></i> Inquire Now</a>
+                                    <a href="rental-service" class="yellow-btn"><i class="flaticon-enter"></i> Inquire Now</a>
                                 </div>
                             </div>
                         </div>
@@ -426,16 +492,16 @@
                     <div class="col-lg-6">
                         <div class="tp-service-three premium-service-card mb-30 wow fadeInUp" data-wow-delay="1.2s">
                             <div class="tp-service-three-img">
-                                <img src="assets/img/service-commercial.png" class="img-fluid" alt="AMC and Service Contracts">
+                                <img src="assets/img/service-commercial.png" class="img-fluid" alt="Cleaning Equipment AMC and Service Contracts Chennai">
                                 <div class="tp-service-three-img-icon" style="background-color:#000;">
                                     <i class="flaticon-business-and-trade"></i>
                                 </div>
                             </div>
                             <div class="tp-service-three-text fix">
-                                <h4 class="tp-service-three-title mb-20"><a href="service-amc">AMC & Service Contracts</a></h4>
+                                <h4 class="tp-service-three-title mb-20"><a href="klean-max-service">AMC & Service Contracts</a></h4>
                                 <p class="mb-30">Annual Maintenance Contracts designed to keep your cleaning machines running at peak performance with minimal downtime.</p>
                                 <div class="tp-service-three-text-btn">
-                                    <a href="service-amc" class="yellow-btn"><i class="flaticon-enter"></i> Inquire Now</a>
+                                    <a href="klean-max-service" class="yellow-btn"><i class="flaticon-enter"></i> Inquire Now</a>
                                 </div>
                             </div>
                         </div>
@@ -443,16 +509,16 @@
                     <div class="col-lg-6">
                         <div class="tp-service-three premium-service-card mb-30 wow fadeInUp" data-wow-delay="1.5s">
                             <div class="tp-service-three-img">
-                                <img src="assets/img/service-industrial.png" class="img-fluid" alt="Machine Repair Services">
+                                <img src="assets/img/service-industrial.png" class="img-fluid" alt="Cleaning Machine Repair Services Chennai">
                                 <div class="tp-service-three-img-icon" style="background-color: #000;">
                                     <i class="flaticon-window"></i>
                                 </div>
                             </div>
                             <div class="tp-service-three-text fix">
-                                <h4 class="tp-service-three-title mb-20"><a href="service-amc">Machine Repair Services</a></h4>
+                                <h4 class="tp-service-three-title mb-20"><a href="klean-max-service">Machine Repair Services</a></h4>
                                 <p class="mb-30">Our trained technicians provide fast, reliable repair and troubleshooting support for all major cleaning equipment brands.</p>
                                 <div class="tp-service-three-text-btn">
-                                    <a href="service-amc" class="yellow-btn"><i class="flaticon-enter"></i> Inquire Now</a>
+                                    <a href="klean-max-service" class="yellow-btn"><i class="flaticon-enter"></i> Inquire Now</a>
                                 </div>
                             </div>
                         </div>
@@ -461,16 +527,16 @@
                     <div class="col-lg-6">
                         <div class="tp-service-three premium-service-card mb-30 wow fadeInUp" data-wow-delay="1.5s">
                             <div class="tp-service-three-img">
-                                <img src="assets/img/service-equipment.png" class="img-fluid" alt="Spare Parts Replacement">
+                                <img src="assets/img/service-equipment.png" class="img-fluid" alt="Genuine Cleaning Equipment Spare Parts Chennai">
                                 <div class="tp-service-three-img-icon" style="background-color: #000;">
                                     <i class="flaticon-cleaning"></i>
                                 </div>
                             </div>
                             <div class="tp-service-three-text fix">
-                                <h4 class="tp-service-three-title mb-20"><a href="equipment-sales">Spare Parts Replacement</a></h4>
+                                <h4 class="tp-service-three-title mb-20"><a href="sales-service">Spare Parts Replacement</a></h4>
                                 <p class="mb-30">Genuine spare parts and consumables sourced directly from manufacturers for all major cleaning equipment brands.</p>
                                 <div class="tp-service-three-text-btn">
-                                    <a href="equipment-sales" class="yellow-btn"><i class="flaticon-enter"></i> Inquire Now</a>
+                                    <a href="sales-service" class="yellow-btn"><i class="flaticon-enter"></i> Inquire Now</a>
                                 </div>
                             </div>
                         </div>
@@ -478,16 +544,16 @@
                     <div class="col-lg-6">
                         <div class="tp-service-three premium-service-card mb-30 wow fadeInUp" data-wow-delay="1.5s">
                             <div class="tp-service-three-img">
-                                <img src="assets/img/service-team.png" class="img-fluid" alt="On-Site Service Support">
+                                <img src="assets/img/service-team.png" class="img-fluid" alt="On-Site Cleaning Equipment Technical Support Chennai">
                                 <div class="tp-service-three-img-icon" style="background-color: #000;">
                                     <i class="flaticon-vacuum-cleaner"></i>
                                 </div>
                             </div>
                             <div class="tp-service-three-text fix">
-                                <h4 class="tp-service-three-title mb-20"><a href="service-amc">On-Site Service Support</a></h4>
+                                <h4 class="tp-service-three-title mb-20"><a href="klean-max-service">On-Site Service Support</a></h4>
                                 <p class="mb-30">Preventive maintenance and on-site technical visits across Chennai for hassle-free equipment uptime.</p>
                                 <div class="tp-service-three-text-btn">
-                                    <a href="service-amc" class="yellow-btn"><i class="flaticon-enter"></i> Inquire Now</a>
+                                    <a href="klean-max-service" class="yellow-btn"><i class="flaticon-enter"></i> Inquire Now</a>
                                 </div>
                             </div>
                         </div>
