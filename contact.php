@@ -200,7 +200,7 @@
                                     </div>
                                     <h4 class="dope-contact-title">Address</h4>
                                     <div class="dope-contact-details">
-                                        <p class="mb-0">6, Jayam Industrial Estate,<br>Chettyar Agaram 1st St,<br>
+                                        <p class="mb-0" style="color: #ffffff !important;">6, Jayam Industrial Estate,<br>Chettyar Agaram 1st St,<br>
                                         Opp to Ishwarya Apts, <br>Vanagaram, Chennai - 600095.</p>
                                     </div>
                                 </div>
@@ -228,7 +228,7 @@
                                     </div>
                                     <h4 class="dope-contact-title">Email</h4>
                                     <div class="dope-contact-details">
-                                        <p class="mb-4" style="font-size: 15px; color: #94a3b8;">Drop us a line anytime, and we'll get back to you shortly.</p>
+                                        <p class="mb-4" style="font-size: 15px; color: #ffffff !important;">Drop us a line anytime, and we'll get back to you shortly.</p>
                                         <a href="mailto:info@kleanmaxpro.com" style="font-size: 22px; font-weight: 800; color: #fed10c; text-decoration: underline;">info@kleanmaxpro.com</a>
                                     </div>
                                 </div>
