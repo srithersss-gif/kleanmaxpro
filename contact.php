@@ -14,10 +14,10 @@
     <meta property="og:title" content="Contact Kleanmax Pro | Cleaning Equipment in Chennai">
     <meta property="og:description" content="Reach our Chennai sales & technical service desk at 6, Jayam Industrial Estate, Vanagaram. Call +91 73388 82034.">
     <meta property="og:url" content="https://www.kleanmaxpro.com/contact">
-    <meta property="og:image" content="https://www.kleanmaxpro.com/assets/img/service/premium-sales-banner.png">
+    <meta property="og:image" content="https://www.kleanmaxpro.com/assets/img/service/premium-sales-banner.webp">
 
     <link rel="manifest" href="site.webmanifest">
-    <link rel="shortcut icon" type="image/x-icon" href="assets/klean-favicon.png">
+    <link rel="shortcut icon" type="image/x-icon" href="assets/klean-favicon.webp">
     <!-- Place favicon.ico in the root directory -->
 
     <!-- CSS here -->
@@ -101,90 +101,44 @@
                         </div>
                     </div>
                 </div>
-                <div class="row">
-                    <div class="col-lg-4">
+                <div class="row justify-content-center">
+                    <div class="col-lg-12">
                         <div class="row custom-mar-20">
-                            <div class="col-lg-12 col-md-4 col-sm-6 custom-pad-20">
+                            <div class="col-lg-4 col-md-4 col-sm-12 custom-pad-20 text-center">
                                 <div class="tp-contact-info mb-40 wow fadeInUp" data-wow-delay=".4s">
-                                    <div class="tp-contact-info-icon">
-                                        <i class="fas fa-map-marker-alt" style="color:#fed10c;"></i>
+                                    <div class="tp-contact-info-icon mx-auto mb-20 d-flex justify-content-center align-items-center" style="width: 80px; height: 80px; background: #002244; border-radius: 50%;">
+                                        <i class="fas fa-map-marker-alt" style="color:#fed10c; font-size: 32px;"></i>
                                     </div>
                                     <div class="tp-contact-info-text">
                                         <h4 class="tp-contact-info-title mb-15">Address</h4>
-                                        <p>6, Jayam Industrial Estate, Chettyar Agaram 1st St,
+                                        <p>6, Jayam Industrial Estate, Chettyar Agaram 1st St,<br>
                                             Opp to Ishwarya Apts, <br>Vanagaram, Chennai - 600095.</p>
                                     </div>
                                 </div>
                             </div>
-                            <div class="col-lg-12 col-md-4 col-sm-6 custom-pad-20">
+                            <div class="col-lg-4 col-md-4 col-sm-12 custom-pad-20 text-center">
                                 <div class="tp-contact-info mb-40 wow fadeInUp" data-wow-delay=".6s">
-                                    <div class="tp-contact-info-icon">
-                                        <i class="fas fa-phone-alt" style="color:#fed10c;"></i>
+                                    <div class="tp-contact-info-icon mx-auto mb-20 d-flex justify-content-center align-items-center" style="width: 80px; height: 80px; background: #002244; border-radius: 50%;">
+                                        <i class="fas fa-phone-alt" style="color:#fed10c; font-size: 32px;"></i>
                                     </div>
                                     <div class="tp-contact-info-text">
                                         <h4 class="tp-contact-info-title mb-15">Phone</h4>
-                                        <a href="tel:+917338882034">+91 73388 82034</a>
-                                        <a href="tel:+919710148218">+91 97101 48218</a>
+                                        <a href="tel:+917338882034" class="d-block">+91 73388 82034</a>
+                                        <a href="tel:+919710148218" class="d-block">+91 97101 48218</a>
                                     </div>
                                 </div>
                             </div>
-                            <div class="col-lg-12 col-md-4 col-sm-6 custom-pad-20">
+                            <div class="col-lg-4 col-md-4 col-sm-12 custom-pad-20 text-center">
                                 <div class="tp-contact-info mb-40 wow fadeInUp" data-wow-delay=".8s">
-                                    <div class="tp-contact-info-icon">
-                                        <i class="fas fa-envelope-open" style="color:#fed10c;"></i>
+                                    <div class="tp-contact-info-icon mx-auto mb-20 d-flex justify-content-center align-items-center" style="width: 80px; height: 80px; background: #002244; border-radius: 50%;">
+                                        <i class="fas fa-envelope-open" style="color:#fed10c; font-size: 32px;"></i>
                                     </div>
                                     <div class="tp-contact-info-text">
                                         <h4 class="tp-contact-info-title mb-15">Email</h4>
-                                        <a href="mailto:info@kleanmaxpro.com">info@kleanmaxpro.com</a>
-                                        <!-- <a href="mailto:info@kleanmax.com">info@kleanmax.com</a> -->
+                                        <a href="mailto:info@kleanmaxpro.com" class="d-block">info@kleanmaxpro.com</a>
                                     </div>
                                 </div>
                             </div>
-                        </div>
-                    </div>
-                    <div class="col-lg-8">
-                        <div class="tp-contact-form">
-                        <form id="contact-form" name="contact_form" method="post" action="assets/inc/sendmail.php">
-                            <div class="row custom-mar-20">
-                                <div class="col-md-6 custom-pad-20">
-                                    <div class="tp-contact-form-field mb-20">
-                                        <input type="text"  name="form_name" placeholder="Your name" required="">
-                                    </div>
-                                </div>
-                                <div class="col-md-6 custom-pad-20">
-                                    <div class="tp-contact-form-field mb-20">
-                                        <input type="email"  name="form_email" placeholder="Email Address" required="">
-                                    </div>
-                                </div>
-                                <div class="col-md-6 custom-pad-20">
-                                    <div class="tp-contact-form-field mb-20">
-                                        <input type="text"  name="form_phone" placeholder="Mobile No." required="">
-                                    </div>
-                                </div>
-                                <div class="col-md-6 custom-pad-20">
-                                    <div class="tp-contact-form-field select-field-arrow mb-20">
-                                        <select name="form_subject" required="">
-                                            <option value="">Select Requirement</option>
-                                            <option value="Sales">Sales</option>
-                                            <option value="Service">Service</option>
-                                            <option value="Rentals">Rentals</option>
-                                            <option value="Others">Others</option>
-                                        </select>
-                                    </div>
-                                </div>
-                                <div class="col-md-12 custom-pad-20">
-                                    <div class="tp-contact-form-field mb-20">
-                                        <textarea name="form_message" placeholder="Your Message"></textarea>
-                                    </div>
-                                </div>
-                                <div class="col-md-12 custom-pad-20">
-                                    <div class="tp-contact-form-field">
-                                    <input id="form_botcheck" name="form_botcheck" class="form-control" type="hidden" value="">
-                                        <button type="submit" data-loading-text="Please wait..." class="theme-btn"><i class="flaticon-enter"></i> Send Message</button>
-                                    </div>
-                                </div>
-                            </div>
-                        </form>
                         </div>
                     </div>
                 </div>
