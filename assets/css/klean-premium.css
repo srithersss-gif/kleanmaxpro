@@ -697,39 +697,49 @@ h6,
    CONTACT PAGE ENHANCEMENTS
    ============================================================ */
 .tp-contact-info {
-  background: linear-gradient(145deg, #0d1b2a, #001122) !important;
+  display: flex !important;
+  align-items: center !important;
+  background: linear-gradient(145deg, #091829, #040e1a) !important;
   border-radius: var(--kp-radius) !important;
-  padding: 28px !important;
-  border: 1px solid rgba(254, 209, 12, 0.15) !important;
+  padding: 24px 22px !important;
+  border: 1px solid rgba(254, 209, 12, 0.18) !important;
   transition: var(--kp-transition) !important;
+  height: 100% !important;
+  min-height: 140px;
+  box-shadow: 0 10px 30px rgba(0, 0, 0, 0.25) !important;
 }
 
 .tp-contact-info:hover {
-  border-color: rgba(254, 209, 12, 0.4) !important;
+  border-color: rgba(254, 209, 12, 0.5) !important;
   transform: translateY(-4px) !important;
-  box-shadow: 0 16px 40px rgba(0, 0, 0, 0.3) !important;
+  box-shadow: 0 16px 40px rgba(0, 0, 0, 0.4) !important;
+}
+
+.tp-contact-info-icon {
+  margin-right: 18px !important;
+  flex-shrink: 0 !important;
 }
 
 .tp-contact-info-icon i {
-  font-size: 36px !important;
+  font-size: 28px !important;
   color: var(--kp-accent) !important;
   transition: var(--kp-transition) !important;
 }
 
 .tp-contact-info:hover .tp-contact-info-icon i {
-  transform: scale(1.2) rotate(-10deg);
-  filter: drop-shadow(0 0 10px rgba(254, 209, 12, 0.5));
+  transform: scale(1.15) rotate(-6deg);
+  filter: drop-shadow(0 0 10px rgba(254, 209, 12, 0.6));
 }
 
 .tp-contact-info-title {
   color: #fff !important;
   font-family: var(--kp-font-heading) !important;
-  font-weight: 700 !important;
+  font-weight: 800 !important;
 }
 
 .tp-contact-info-text p,
 .tp-contact-info-text a {
-  color: var(--kp-text-light) !important;
+  color: #cbd5e1 !important;
   transition: color 0.3s !important;
 }
 

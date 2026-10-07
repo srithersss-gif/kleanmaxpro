@@ -67,15 +67,14 @@
                         <ul>
                             
                             <li><i class="flaticon-pin"></i> 6, Jayam Industrial Estate, Chettyar Agaram 1st St, <br> Opp to Ishwarya Apts, Vanagaram, Chennai - 600095.</li>
-                            <li><i class="flaticon-email"></i><a href="mailto:info@kleanmax.com">info@kleanmax.com</a></li>
-                            <li><i class="flaticon-phone-call"></i><a href="tel:+91 73388 82034">+91 73388 82034</a></li>
+                            <li><i class="flaticon-email"></i><a href="mailto:info@kleanmaxpro.com">info@kleanmaxpro.com</a></li>
+                            <li><i class="flaticon-phone-call"></i><a href="tel:+919710148218">+91 97101 48218</a></li>
                         </ul>
                         <div class="sidebar__menu--social">
-                            <a href="https://wa.me/917338882034"><i class="fab fa-whatsapp"></i></a>
-                            <a href="https://www.facebook.com/kleanmaxcleaning/"><i class="fab fa-facebook-f"></i></a>
-                            <a href="#"><i class="fab fa-twitter"></i></a>
-                            <a href="https://www.instagram.com/kleanmax_pro/"><i class="fab fa-instagram"></i></a>
-                            <a href="#"><i class="fab fa-google"></i></a>
+                            <a href="https://wa.me/919710148218" target="_blank"><i class="fab fa-whatsapp"></i></a>
+                            <a href="https://www.facebook.com/kleanmaxcleaning/" target="_blank"><i class="fab fa-facebook-f"></i></a>
+                            <a href="https://www.instagram.com/kleanmax_pro?stkn=ZmV2b2swM2tqdzg2" target="_blank"><i class="fab fa-instagram"></i></a>
+                            <a href="https://www.linkedin.com/in/srither-k" target="_blank"><i class="fab fa-linkedin-in"></i></a>
                         </div>
                     </div>
                 </div>
@@ -87,6 +86,6 @@
     
 
     
-  <!--  <div class="call-me1 call-me-left"><a href="tel:+917338882034" class="btn1 btn1-success"><i class="fab fa-phone"></i> </a></div> -->
+  <!--  <div class="call-me1 call-me-left"><a href="tel:+919710148218" class="btn1 btn1-success"><i class="fab fa-phone"></i> </a></div> -->
     
     

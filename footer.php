@@ -32,7 +32,7 @@
                         <div class="tp-footer-widget footer-col-1 mb-40 wow fadeInUp" data-wow-delay=".2s">
                             <div class="tp-footer-info">
                                 <div class="tp-footer-info-logo mb-30">
-                                    <a href="index"><img src="assets/img/logo/klean-max-footer-logo.webp" class="img-fluid" alt="Klean Max Pro Logo"></a>
+                                    <a href="index"><img src="assets/img/logo/klean-max-footer-logo.png" class="img-fluid" alt="Klean Max Pro Logo"></a>
                                 </div>
                                 <p style="color: #94a3b8; font-size: 15px; line-height: 1.8; margin-bottom: 25px;">When it comes to cleaning, Klean Max Pro will treat your facility like our own and deliver exceptional results. We provide a range of commercial cleaning services including factory cleaning, carpet cleaning, and industrial cleaning.</p>
                                 <a style="color: #FFC000; font-weight: 700; font-size: 15px; display: inline-flex; align-items: center; transition: color 0.3s ease; text-decoration: none;" href="about" onmouseover="this.style.color='#ffffff'" onmouseout="this.style.color='#FFC000'"><i class="flaticon-enter" style="margin-right: 8px;"></i> Read More</a>
@@ -71,8 +71,8 @@
                                     <div class="mb-20 d-flex">
                                         <i class="fal fa-phone-alt mt-1" style="color: #FFC000; font-size: 18px; margin-right: 15px;"></i>
                                         <div>
-                                            <a href="tel:+917338882034" style="color: #cbd5e1; font-size: 16px; display: block; margin-bottom: 5px; transition: color 0.3s ease; text-decoration: none; font-weight: 600;" onmouseover="this.style.color='#FFC000'" onmouseout="this.style.color='#cbd5e1'">+91 73388 82034</a>
-                                            <a href="tel:+919710148218" style="color: #cbd5e1; font-size: 16px; display: block; transition: color 0.3s ease; text-decoration: none; font-weight: 600;" onmouseover="this.style.color='#FFC000'" onmouseout="this.style.color='#cbd5e1'">+91 97101 48218</a>
+                                            <a href="tel:+919710148218" style="color: #cbd5e1; font-size: 16px; display: block; margin-bottom: 5px; transition: color 0.3s ease; text-decoration: none; font-weight: 600;" onmouseover="this.style.color='#FFC000'" onmouseout="this.style.color='#cbd5e1'">+91 97101 48218</a>
+                                            <a href="tel:+917338882036" style="color: #cbd5e1; font-size: 16px; display: block; transition: color 0.3s ease; text-decoration: none; font-weight: 600;" onmouseover="this.style.color='#FFC000'" onmouseout="this.style.color='#cbd5e1'">+91 73388 82036</a>
                                         </div>
                                     </div>
                                     <div class="mb-20 d-flex">
@@ -85,10 +85,10 @@
                                     </div>
                                 </div>
                                 <div class="tp-footer-info-social d-flex flex-wrap gap-2 mt-2">
-                                    <a href="#" target="_blank" style="width: 42px; height: 42px; display: flex; align-items: center; justify-content: center; background: rgba(255,192,0,0.1); color: #FFC000; border-radius: 50%; transition: all 0.3s ease; border: 1px solid rgba(255,192,0,0.3); text-decoration: none; font-size: 16px;" onmouseover="this.style.background='#FFC000'; this.style.color='#002244'; this.style.transform='translateY(-3px)'" onmouseout="this.style.background='rgba(255,192,0,0.1)'; this.style.color='#FFC000'; this.style.transform='translateY(0)'"><i class="fab fa-facebook-f"></i></a>
-                                    <a href="#" target="_blank" style="width: 42px; height: 42px; display: flex; align-items: center; justify-content: center; background: rgba(255,192,0,0.1); color: #FFC000; border-radius: 50%; transition: all 0.3s ease; border: 1px solid rgba(255,192,0,0.3); text-decoration: none; font-size: 16px;" onmouseover="this.style.background='#FFC000'; this.style.color='#002244'; this.style.transform='translateY(-3px)'" onmouseout="this.style.background='rgba(255,192,0,0.1)'; this.style.color='#FFC000'; this.style.transform='translateY(0)'"><i class="fab fa-twitter"></i></a>
-                                    <a href="#" target="_blank" style="width: 42px; height: 42px; display: flex; align-items: center; justify-content: center; background: rgba(255,192,0,0.1); color: #FFC000; border-radius: 50%; transition: all 0.3s ease; border: 1px solid rgba(255,192,0,0.3); text-decoration: none; font-size: 16px;" onmouseover="this.style.background='#FFC000'; this.style.color='#002244'; this.style.transform='translateY(-3px)'" onmouseout="this.style.background='rgba(255,192,0,0.1)'; this.style.color='#FFC000'; this.style.transform='translateY(0)'"><i class="fab fa-instagram"></i></a>
-                                    <a href="https://www.linkedin.com/in/srither-k-36a280a6/?isSelfProfile=true" target="_blank" style="width: 42px; height: 42px; display: flex; align-items: center; justify-content: center; background: rgba(255,192,0,0.1); color: #FFC000; border-radius: 50%; transition: all 0.3s ease; border: 1px solid rgba(255,192,0,0.3); text-decoration: none; font-size: 16px;" onmouseover="this.style.background='#FFC000'; this.style.color='#002244'; this.style.transform='translateY(-3px)'" onmouseout="this.style.background='rgba(255,192,0,0.1)'; this.style.color='#FFC000'; this.style.transform='translateY(0)'"><i class="fab fa-linkedin-in"></i></a>
+                                    <a href="https://www.facebook.com/kleanmaxcleaning/" target="_blank" style="width: 42px; height: 42px; display: flex; align-items: center; justify-content: center; background: rgba(255,192,0,0.1); color: #FFC000; border-radius: 50%; transition: all 0.3s ease; border: 1px solid rgba(255,192,0,0.3); text-decoration: none; font-size: 16px;" onmouseover="this.style.background='#FFC000'; this.style.color='#002244'; this.style.transform='translateY(-3px)'" onmouseout="this.style.background='rgba(255,192,0,0.1)'; this.style.color='#FFC000'; this.style.transform='translateY(0)'"><i class="fab fa-facebook-f"></i></a>
+                                    <a href="https://wa.me/919710148218" target="_blank" style="width: 42px; height: 42px; display: flex; align-items: center; justify-content: center; background: rgba(255,192,0,0.1); color: #FFC000; border-radius: 50%; transition: all 0.3s ease; border: 1px solid rgba(255,192,0,0.3); text-decoration: none; font-size: 16px;" onmouseover="this.style.background='#FFC000'; this.style.color='#002244'; this.style.transform='translateY(-3px)'" onmouseout="this.style.background='rgba(255,192,0,0.1)'; this.style.color='#FFC000'; this.style.transform='translateY(0)'"><i class="fab fa-whatsapp"></i></a>
+                                    <a href="https://www.instagram.com/kleanmax_pro?stkn=ZmV2b2swM2tqdzg2" target="_blank" style="width: 42px; height: 42px; display: flex; align-items: center; justify-content: center; background: rgba(255,192,0,0.1); color: #FFC000; border-radius: 50%; transition: all 0.3s ease; border: 1px solid rgba(255,192,0,0.3); text-decoration: none; font-size: 16px;" onmouseover="this.style.background='#FFC000'; this.style.color='#002244'; this.style.transform='translateY(-3px)'" onmouseout="this.style.background='rgba(255,192,0,0.1)'; this.style.color='#FFC000'; this.style.transform='translateY(0)'"><i class="fab fa-instagram"></i></a>
+                                    <a href="https://www.linkedin.com/in/srither-k" target="_blank" style="width: 42px; height: 42px; display: flex; align-items: center; justify-content: center; background: rgba(255,192,0,0.1); color: #FFC000; border-radius: 50%; transition: all 0.3s ease; border: 1px solid rgba(255,192,0,0.3); text-decoration: none; font-size: 16px;" onmouseover="this.style.background='#FFC000'; this.style.color='#002244'; this.style.transform='translateY(-3px)'" onmouseout="this.style.background='rgba(255,192,0,0.1)'; this.style.color='#FFC000'; this.style.transform='translateY(0)'"><i class="fab fa-linkedin-in"></i></a>
                                 </div>
                             </div>
                         </div>
@@ -109,11 +109,11 @@
         </div>
         <!-- Floating Social Bar -->
         <div class="floating-social-bar">
-            <a href="tel:+917338882034" class="social-call" aria-label="Call Us" title="Call Us: +91 73388 82034"><i class="fas fa-phone-alt"></i></a>
+            <a href="tel:+919710148218" class="social-call" aria-label="Call Us" title="Call Us: +91 97101 48218"><i class="fas fa-phone-alt"></i></a>
             <a href="https://wa.me/919710148218" target="_blank" class="social-whatsapp" aria-label="WhatsApp" title="Chat on WhatsApp"><i class="fab fa-whatsapp"></i></a>
-            <a href="#" target="_blank" class="social-facebook" aria-label="Facebook"><i class="fab fa-facebook-f"></i></a>
-            <a href="#" target="_blank" class="social-instagram" aria-label="Instagram"><i class="fab fa-instagram"></i></a>
-            <a href="https://www.linkedin.com/in/srither-k-36a280a6/?isSelfProfile=true" target="_blank" class="social-linkedin" aria-label="LinkedIn"><i class="fab fa-linkedin-in"></i></a>
+            <a href="https://www.facebook.com/kleanmaxcleaning/" target="_blank" class="social-facebook" aria-label="Facebook"><i class="fab fa-facebook-f"></i></a>
+            <a href="https://www.instagram.com/kleanmax_pro?stkn=ZmV2b2swM2tqdzg2" target="_blank" class="social-instagram" aria-label="Instagram"><i class="fab fa-instagram"></i></a>
+            <a href="https://www.linkedin.com/in/srither-k" target="_blank" class="social-linkedin" aria-label="LinkedIn"><i class="fab fa-linkedin-in"></i></a>
         </div>
         
         <!-- Vanilla Tilt JS for 3D hover effects -->

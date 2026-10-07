@@ -21,7 +21,7 @@
     <meta property="og:title" content="Cleaning Equipment Sales, Rental & Service in Chennai | Kleanmax Pro">
     <meta property="og:description" content="Kleanmax Pro supplies, rents and services genuine cleaning equipment in Chennai - scrubber dryers, high pressure washers, vacuum cleaners, sweepers, AMC and spare parts.">
     <meta property="og:url" content="https://www.kleanmaxpro.com/">
-    <meta property="og:image" content="https://www.kleanmaxpro.com/assets/img/service/premium-sales-banner.webp">
+    <meta property="og:image" content="https://www.kleanmaxpro.com/assets/img/service/premium-sales-banner.png">
     <meta name="twitter:card" content="summary_large_image">
 
     <!-- Structured Data Schema -->
@@ -35,10 +35,10 @@
           "name": "Kleanmax Pro",
           "alternateName": "Klean Max Pro Cleaning Equipment",
           "url": "https://www.kleanmaxpro.com/",
-          "logo": "https://www.kleanmaxpro.com/assets/img/logo/kleanmax-pro-logo1.webp",
-          "image": "https://www.kleanmaxpro.com/assets/img/service/premium-sales-banner.webp",
+          "logo": "https://www.kleanmaxpro.com/assets/img/logo/kleanmax-pro-logo1.png",
+          "image": "https://www.kleanmaxpro.com/assets/img/service/premium-sales-banner.png",
           "description": "Kleanmax Pro supplies, rents and services genuine commercial and industrial cleaning equipment in Chennai, Tamil Nadu.",
-          "telephone": "+91-7338882034",
+          "telephone": "+91-9710148218",
           "email": "info@kleanmaxpro.com",
           "address": {
             "@type": "PostalAddress",
@@ -74,37 +74,19 @@
     </script>
 
     <link rel="manifest" href="site.webmanifest">
-    <link rel="shortcut icon" type="image/x-icon" href="assets/klean-favicon.webp">
+    <link rel="shortcut icon" type="image/x-icon" href="assets/klean-favicon.png">
     <!-- Place favicon.ico in the root directory -->
-
-    <!-- Preload Hero Image for LCP Optimization -->
-    <link rel="preload" as="image" href="assets/img/hero-1.webp">
 
     <!-- CSS here -->
     <link rel="stylesheet" href="assets/css/bootstrap.min.css">
-    <link rel="preload" href="assets/css/animate.min.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
-    <noscript><link rel="stylesheet" href="assets/css/animate.min.css"></noscript>
-    
-    <link rel="preload" href="assets/css/custom-animation.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
-    <noscript><link rel="stylesheet" href="assets/css/custom-animation.css"></noscript>
-    
-    <link rel="preload" href="assets/css/fontawesome.min.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
-    <noscript><link rel="stylesheet" href="assets/css/fontawesome.min.css"></noscript>
-    
-    <link rel="preload" href="assets/css/magnific-popup.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
-    <noscript><link rel="stylesheet" href="assets/css/magnific-popup.css"></noscript>
-    
+    <link rel="stylesheet" href="assets/css/animate.min.css">
+    <link rel="stylesheet" href="assets/css/custom-animation.css">
+    <link rel="stylesheet" href="assets/css/fontawesome.min.css">
+    <link rel="stylesheet" href="assets/css/magnific-popup.css">
     <link rel="stylesheet" href="assets/css/meanmenu.css">
-    
-    <link rel="preload" href="assets/css/flaticon.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
-    <noscript><link rel="stylesheet" href="assets/css/flaticon.css"></noscript>
-    
-    <link rel="preload" href="assets/css/venobox.min.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
-    <noscript><link rel="stylesheet" href="assets/css/venobox.min.css"></noscript>
-    
-    <link rel="preload" href="assets/css/backToTop.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
-    <noscript><link rel="stylesheet" href="assets/css/backToTop.css"></noscript>
-    
+    <link rel="stylesheet" href="assets/css/flaticon.css">
+    <link rel="stylesheet" href="assets/css/venobox.min.css">
+    <link rel="stylesheet" href="assets/css/backToTop.css">
     <link rel="stylesheet" href="assets/css/swiper-bundle.css">
     <link rel="stylesheet" href="assets/css/default.css">
     <link rel="stylesheet" href="assets/css/main.css?v=4">
@@ -207,29 +189,9 @@
         <!-- hero area start here -->
         <section class="tp-slider-area fix">
             <div class="tp-slider-active swiper-container">
-                <style>
-                    /* Ensure proper sizing and overlay for the new hero images */
-                    .custom-hero-slide .slide-bg {
-                        background-size: cover !important;
-                        background-position: center center !important;
-                        background-repeat: no-repeat !important;
-                    }
-                    .custom-hero-slide .slide-bg::after {
-                        content: '';
-                        position: absolute;
-                        top: 0; left: 0; width: 100%; height: 100%;
-                        background: rgba(0, 34, 68, 0.5); /* Premium dark overlay */
-                        z-index: 0;
-                    }
-                    .custom-hero-slide .container {
-                        position: relative;
-                        z-index: 2;
-                    }
-                </style>
                 <div class="swiper-wrapper">
-                    <!-- Slide 1 -->
-                    <div class="tp-single-slider tp-slider-height-two d-flex align-items-center swiper-slide custom-hero-slide" data-swiper-autoplay="5000">
-                        <div class="slide-bg" data-background="assets/img/hero-new-1.jpg" style="background-image: url('assets/img/hero-new-1.jpg');"></div>
+                    <div class="tp-single-slider tp-slider-height-two d-flex align-items-center swiper-slide" data-swiper-autoplay="5000">
+                        <div class="slide-bg" data-background="assets/img/hero-1.png"></div>
                         <div class="container">
                             <div class="row">
                                 <div class="col-12">
@@ -249,10 +211,8 @@
                             </div>
                         </div>
                     </div>
-
-                    <!-- Slide 2 -->
-                    <div class="tp-single-slider tp-slider-height-two d-flex align-items-center swiper-slide custom-hero-slide" data-swiper-autoplay="5000">
-                        <div class="slide-bg" data-background="assets/img/hero-new-2.jpg" style="background-image: url('assets/img/hero-new-2.jpg');"></div>
+                    <div class="tp-single-slider tp-slider-height-two d-flex align-items-center swiper-slide" data-swiper-autoplay="5000">
+                        <div class="slide-bg" data-background="assets/img/hero-2.png"></div>
                         <div class="container">
                             <div class="row">
                                 <div class="col-12">
@@ -270,9 +230,11 @@
                         </div>
                     </div>
 
-                    <!-- Slide 3 -->
-                    <div class="tp-single-slider tp-slider-height-two d-flex align-items-center swiper-slide custom-hero-slide" data-swiper-autoplay="5000">
-                        <div class="slide-bg" data-background="assets/img/hero-new-3.jpg" style="background-image: url('assets/img/hero-new-3.jpg');"></div>
+
+
+
+                    <div class="tp-single-slider tp-slider-height-two d-flex align-items-center swiper-slide" data-swiper-autoplay="5000">
+                        <div class="slide-bg" data-background="assets/img/hero-3.png"></div>
                         <div class="container">
                             <div class="row">
                                 <div class="col-12">
@@ -291,6 +253,7 @@
                     </div>
 
                 </div>
+
 
                 <!-- Navigation buttons removed -->
             </div>
@@ -400,61 +363,7 @@
         </section>
 
 
-		   <!-- cta area start here -->
-        <section class="tp-appoint-cta-area premium-enquiry-bg pt-35 pb-25" style="background: var(--kp-accent);">
-            <div class="container">
-                <div class="row align-items-center custom-mar-20">
-                <form id="contact-form" name="contact_form" method="post" action="assets/inc/quick-enquiry.php" class="premium-enquiry-form w-100 m-0">
-                    <div class="row align-items-center w-100">
-                        <div class="col-xl-2 col-lg-12 custom-pad-10">
-                            <div class="tp-appoint wow fadeInUp" data-wow-delay=".1s">
-                                <h4 class="tp-appoint-title m-0" style="color:#000; font-family:'Outfit',sans-serif; font-weight:800; font-size: 26px;">Quick Enquiry</h4>
-                            </div>
-                        </div>
-                        <div class="col-xl-8 col-lg-9 custom-pad-20">
-                            <div class="row align-items-center custom-mar-20">
-                                <div class="col-lg-3 custom-pad-10">
-                                    <div class="tp-appoint wow fadeInUp" data-wow-delay=".3s">
-                                        <input type="text" name="form_name" class="premium-input" placeholder="Your Name" required="">
-                                    </div>
-                                </div>
-                                <div class="col-lg-3 custom-pad-10">
-                                    <div class="tp-appoint wow fadeInUp" data-wow-delay=".5s">
-                                        <input type="text" name="form_phone" class="premium-input" placeholder="Mobile No." required="">
-                                    </div>
-                                </div>
-                                <div class="col-lg-3 custom-pad-10">
-                                    <div class="tp-appoint wow fadeInUp" data-wow-delay=".5s">
-                                        <input type="email" name="form_email" class="premium-input" placeholder="Email ID" required="">
-                                    </div>
-                                </div>
-                                <div class="col-lg-3 custom-pad-10">
-                                    <div class="tp-appoint wow fadeInUp" data-wow-delay=".7s">
-                                        <select name="form_subject" class="premium-input" required="">
-                                            <option value="">Select Requirement</option>
-                                            <option value="Equipment Sales">Equipment Sales</option>
-                                            <option value="Equipment Rental">Equipment Rental</option>
-                                            <option value="AMC / Service Contract">AMC / Service Contract</option>
-                                            <option value="Machine Repair">Machine Repair</option>
-                                            <option value="Spare Parts">Spare Parts</option>
-                                            <option value="Equipment Inspection">Equipment Inspection</option>
-                                        </select>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="col-xl-2 col-lg-3 custom-pad-10">
-                            <div class="tp-appoint text-end wow fadeInUp" data-wow-delay=".9s">
-                                <input id="form_botcheck" name="form_botcheck" class="form-control" type="hidden" value="">
-                                <button type="submit" class="premium-submit-btn w-100" data-loading-text="Please wait..."><i class="flaticon-enter"></i> Submit Now</button>
-                            </div>
-                        </div>
-                    </div>
-                </form>
-                </div>
-            </div>
-        </section>
-        <!-- cta area end here -->
+
 
         <!-- about area start here -->
         <section class="tp-about-area-two fix pt-60 pb-100">
@@ -463,7 +372,7 @@
                     <div class="col-lg-6 col-md-10 mb-5 mb-lg-0">
                         <div class="tp-about-img-two position-relative mr-80 wow fadeInUp" data-wow-delay=".4s">
                             <img src="assets/img/about/about-2.jpg" class="img-fluid tilt-3d" style="border-radius: 20px; box-shadow: 0 20px 50px rgba(0,0,0,0.15);" alt="Commercial Cleaning Equipment Chennai">
-                            <img src="assets/img/about/about-3.webp" class="img-fluid img-second premium-floating-img tilt-3d" style="border-radius: 50%; box-shadow: 0 25px 60px rgba(0,0,0,0.25); border: 12px solid #ffffff;" alt="Industrial Cleaning Services">
+                            <img src="assets/img/about/about-3.png" class="img-fluid img-second premium-floating-img tilt-3d" style="border-radius: 50%; box-shadow: 0 25px 60px rgba(0,0,0,0.25); border: 12px solid #ffffff;" alt="Industrial Cleaning Services">
                             
                             <!-- Modernized Glassmorphism Badge -->
                             <div class="premium-about-badge tilt-3d">
@@ -528,7 +437,7 @@
                     <div class="col-lg-6">
                         <div class="tp-service-three premium-service-card mb-30 wow fadeInUp" data-wow-delay=".9s">
                             <div class="tp-service-three-img">
-                                <img src="assets/img/service-sales.webp" class="img-fluid" alt="Commercial Cleaning Equipment Sales Chennai">
+                                <img src="assets/img/service-sales.png" class="img-fluid" alt="Commercial Cleaning Equipment Sales Chennai">
                                 <div class="tp-service-three-img-icon" style="background-color: #000;">
                                     <i class="flaticon-desk"></i>
                                 </div>
@@ -547,7 +456,7 @@
                     <div class="col-lg-6">
                         <div class="tp-service-three premium-service-card mb-30 wow fadeInUp" data-wow-delay=".9s">
                             <div class="tp-service-three-img">
-                                <img src="assets/img/service-slider1.webp" class="img-fluid" alt="Industrial Cleaning Equipment Rental Chennai">
+                                <img src="assets/img/service-slider1.png" class="img-fluid" alt="Industrial Cleaning Equipment Rental Chennai">
                                 <div class="tp-service-three-img-icon" style="background-color: #000;">
                                     <i class="flaticon-desk"></i>
                                 </div>
@@ -564,7 +473,7 @@
                     <div class="col-lg-6">
                         <div class="tp-service-three premium-service-card mb-30 wow fadeInUp" data-wow-delay="1.2s">
                             <div class="tp-service-three-img">
-                                <img src="assets/img/service-commercial.webp" class="img-fluid" alt="Cleaning Equipment AMC and Service Contracts Chennai">
+                                <img src="assets/img/service-commercial.png" class="img-fluid" alt="Cleaning Equipment AMC and Service Contracts Chennai">
                                 <div class="tp-service-three-img-icon" style="background-color:#000;">
                                     <i class="flaticon-business-and-trade"></i>
                                 </div>
@@ -581,7 +490,7 @@
                     <div class="col-lg-6">
                         <div class="tp-service-three premium-service-card mb-30 wow fadeInUp" data-wow-delay="1.5s">
                             <div class="tp-service-three-img">
-                                <img src="assets/img/service-industrial.webp" class="img-fluid" alt="Cleaning Machine Repair Services Chennai">
+                                <img src="assets/img/service-industrial.png" class="img-fluid" alt="Cleaning Machine Repair Services Chennai">
                                 <div class="tp-service-three-img-icon" style="background-color: #000;">
                                     <i class="flaticon-window"></i>
                                 </div>
@@ -599,7 +508,7 @@
                     <div class="col-lg-6">
                         <div class="tp-service-three premium-service-card mb-30 wow fadeInUp" data-wow-delay="1.5s">
                             <div class="tp-service-three-img">
-                                <img src="assets/img/service-equipment.webp" class="img-fluid" alt="Genuine Cleaning Equipment Spare Parts Chennai">
+                                <img src="assets/img/service-equipment.png" class="img-fluid" alt="Genuine Cleaning Equipment Spare Parts Chennai">
                                 <div class="tp-service-three-img-icon" style="background-color: #000;">
                                     <i class="flaticon-cleaning"></i>
                                 </div>
@@ -616,7 +525,7 @@
                     <div class="col-lg-6">
                         <div class="tp-service-three premium-service-card mb-30 wow fadeInUp" data-wow-delay="1.5s">
                             <div class="tp-service-three-img">
-                                <img src="assets/img/service-team.webp" class="img-fluid" alt="On-Site Cleaning Equipment Technical Support Chennai">
+                                <img src="assets/img/service-team.png" class="img-fluid" alt="On-Site Cleaning Equipment Technical Support Chennai">
                                 <div class="tp-service-three-img-icon" style="background-color: #000;">
                                     <i class="flaticon-vacuum-cleaner"></i>
                                 </div>
@@ -1167,7 +1076,7 @@
                                                 </div>
                                             </div>
                                             <div class="tp-testimonial-qoute">
-                                                <img src="assets/img/icon/test-qoute.webp" alt="img not found">
+                                                <img src="assets/img/icon/test-qoute.png" alt="img not found">
                                             </div>
                                         </div>
                                         <div class="tp-testimonial-single swiper-slide z-index">
@@ -1179,7 +1088,7 @@
                                                 </div>
                                             </div>
                                             <div class="tp-testimonial-qoute">
-                                                <img src="assets/img/icon/test-qoute.webp" alt="img not found">
+                                                <img src="assets/img/icon/test-qoute.png" alt="img not found">
                                             </div>
                                         </div>
                                         <div class="tp-testimonial-single swiper-slide z-index">
@@ -1191,7 +1100,7 @@
                                                 </div>
                                             </div>
                                             <div class="tp-testimonial-qoute">
-                                                <img src="assets/img/icon/test-qoute.webp" alt="img not found">
+                                                <img src="assets/img/icon/test-qoute.png" alt="img not found">
                                             </div>
                                         </div>
                                     </div>
@@ -1214,18 +1123,18 @@
 	<?php include_once ('footer.php') ?>
 
     <!-- JS here -->
-    <script defer src="assets/js/vendor/jquery.min.js"></script>
-    <script defer src="assets/js/bootstrap.bundle.min.js"></script>
-    <script defer src="assets/js/swiper-bundle.js"></script>
-    <script defer src="assets/js/venobox.min.js"></script>
-    <script defer src="assets/js/backToTop.js"></script>
-    <script defer src="assets/js/jquery.meanmenu.min.js"></script>
-    <script defer src="assets/js/jquery.magnific-popup.min.js"></script>
-    <script defer src="assets/js/ajax-form.js"></script>
-    <script defer src="assets/js/wow.min.js"></script>
-    <script defer src="assets/js/main.js"></script>
-    <script defer src="assets/js/validation.js"></script>
-    <script defer src="assets/js/custom1.js"></script>
+    <script src="assets/js/vendor/jquery.min.js"></script>
+    <script src="assets/js/bootstrap.bundle.min.js"></script>
+    <script src="assets/js/swiper-bundle.js"></script>
+    <script src="assets/js/venobox.min.js"></script>
+    <script src="assets/js/backToTop.js"></script>
+    <script src="assets/js/jquery.meanmenu.min.js"></script>
+    <script src="assets/js/jquery.magnific-popup.min.js"></script>
+    <script src="assets/js/ajax-form.js"></script>
+    <script src="assets/js/wow.min.js"></script>
+    <script src="assets/js/main.js"></script>
+    <script src="assets/js/validation.js"></script>
+    <script src="assets/js/custom1.js"></script>
     <!-- Form Submission Conversion Tracking -->
 <script>
   var form = document.getElementById('lead-form');

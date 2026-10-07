@@ -439,7 +439,7 @@ ob_start();
                                 <p style="color: rgba(255,255,255,0.8); font-size: 18px;">Get premium machines tailored for your budget in Bangalore.</p>
                                 <div class="cta-box-buttons mt-4 d-flex flex-wrap gap-3 align-items-center">
                                     <a href="contact" class="btn-custom">Request Rental Plan</a>
-                                    <a href="tel:+917338882034" class="btn btn-outline-light" style="padding: 13px 35px; border-radius: 5px; font-weight: 700;">Call Us Now</a>
+                                    <a href="tel:+919710148218" class="btn btn-outline-light" style="padding: 13px 35px; border-radius: 5px; font-weight: 700;">Call Us Now</a>
                                 </div>
                             </div>
 

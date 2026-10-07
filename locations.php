@@ -406,7 +406,7 @@
                 <h2>Not Sure Which Location Serves You?</h2>
                 <p>Call us and our team will connect you with the right city representative instantly.</p>
                 <a href="contact" class="btn-yellow me-3">Enquire Now</a>
-                <a href="tel:+917338882034" class="btn btn-outline-light" style="padding: 14px 38px; border-radius: 50px; font-weight: 700;">Call: +91 73388 82034</a>
+                <a href="tel:+919710148218" class="btn btn-outline-light" style="padding: 14px 38px; border-radius: 50px; font-weight: 700;">Call: +91 97101 48218</a>
             </div>
         </section>
 
